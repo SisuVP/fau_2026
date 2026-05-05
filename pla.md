@@ -1,7 +1,7 @@
 # 🏔️ PLA COMPLET TRAIL 9 km (+400 m)
 
 **Objectiu:** Sub 1h (target ~58:30)
-**Període:** 27 maig → 9 agost (10 setmanes)
+**Període:** 1 juny → 9 agost (10 setmanes)
 
 ---
 
@@ -37,79 +37,79 @@ Ordre (no dies concrets):
 
 ## 🔥 SESSIÓ QUALITAT — PROGRESSIÓ SETMANAL
 
-### SETMANA 1 (base: series curtes, genóll primer)
+### SETMANA 1 (1–7 juny) — base: series curtes, genóll primer
 
-* 10’ escalfament suau (incloure 5’ caminada)
-* 6 x (1’ pujada RPE 8 + baixar caminant)
-* 10’ suau
-* *Justificació: genóll s’ha d’adaptar al volum excèntric. Sèries curtes = menys risc de condropàtia.*
+* 10' escalfament suau (incloure 5' caminada)
+* 6 x (1' pujada RPE 8 + baixar caminant)
+* 10' suau
+* *Justificació: genóll s'ha d'adaptar al volum excèntric. Sèries curtes = menys risc de condropàtia.*
 
-### SETMANA 2
+### SETMANA 2 (8–14 juny)
 
-* 10’ escalfament
-* 8 x (1’ pujada + baixar caminant)
-* 10’ suau
-* *Més repeticions, mateixa durada — augmenta volum sense allargar l’esforç sostingut.*
+* 10' escalfament
+* 8 x (1' pujada + baixar caminant)
+* 10' suau
+* *Més repeticions, mateixa durada — augmenta volum sense allargar l'esforç sostingut.*
 
-### SETMANA 3
+### SETMANA 3 (15–21 juny)
 
-* 10’ escalfament
-* 5 x (2’ pujada + baixar caminant)
-* 10’ suau
+* 10' escalfament
+* 5 x (2' pujada + baixar caminant)
+* 10' suau
 * **Ritme objectiu pujada:** ~7:30–8:00 /km (sostenible 2 min seguits)
 * *Primer allargament: 2 min de pujada contínua comença a simular el que et trobaràs a la cursa.*
 
-### SETMANA 4
+### SETMANA 4 (22–28 juny)
 
-* 10’ escalfament
-* 6 x (2’ pujada forta + baixar caminant)
-* 10’ suau
+* 10' escalfament
+* 6 x (2' pujada forta + baixar caminant)
+* 10' suau
 * **Ritme objectiu pujada:** ~7:15–7:45 /km | FC: 163–172 bpm
 * *Intensitat alta en 2 min — treballes per sobre del llindar, com a les seccions crítiques de la cursa.*
 
-### SETMANA 5
+### SETMANA 5 (29 juny–5 juliol)
 
-* 10’ escalfament
-* 5 x (3’ pujada + baixar caminant 2’)
-* 10’ suau
+* 10' escalfament
+* 5 x (3' pujada + baixar caminant 2')
+* 10' suau
 * **Ritme objectiu pujada:** ~7:30–8:00 /km (ritme sostenible 3 min)
 * **FC referéncia:** 160–170 bpm
-* *3 minuts de pujada = longitud comparable a les seccions >10% de la cursa (100–200 m de desnivell). Primer cop que entrenes l’esforç real.*
+* *3 minuts de pujada = longitud comparable a les seccions >10% de la cursa (100–200 m de desnivell). Primer cop que entrenes l'esforç real.*
 
-### SETMANA 6
+### SETMANA 6 (6–12 juliol)
 
-* 10’ escalfament
-* 3 x 8’ ritme cursa (3’ recuperació)
+* 10' escalfament
+* 3 x 8' ritme cursa (3' recuperació)
 * **Ritme objectiu:** 6:00-6:30 /km en terreny mixt | ~6:30-7:00 /km si és en pujada
 * **FC referéncia:** 158-168 bpm (zona llindar)
 
-### SETMANA 7
+### SETMANA 7 (13–19 juliol)
 
-* 10’ escalfament
-* 4 x 8’ ritme cursa
+* 10' escalfament
+* 4 x 8' ritme cursa
 * **Ritme objectiu:** 6:00-6:30 /km en terreny mixt
 * **FC referéncia:** 160-170 bpm
 
-### SETMANA 8
+### SETMANA 8 (20–26 juliol)
 
-* 10’ escalfament
-* 4 x 5’ ritme cursa en pujada
+* 10' escalfament
+* 4 x 5' ritme cursa en pujada
 * **Ritme objectiu en pujada:** 7:15-7:45 /km (no forçar el ritme pla — aquí és pujada)
 * **FC referéncia:** 163-173 bpm
 
-### SETMANA 9 (tapering: tornem a sèries curtes, velocitat pura)
+### SETMANA 9 (27 jul–2 ago) — tapering: tornem a sèries curtes, velocitat pura
 
-* 10’ escalfament
-* 8 x (2’ fort en pujada + 2’ descans caminant)
-* 10’ suau
+* 10' escalfament
+* 8 x (2' fort en pujada + 2' descans caminant)
+* 10' suau
 * **Ritme objectiu:** 7:00–7:30 /km en pujada (RPE 8–9, molt fort)
 * **FC referéncia:** >165 bpm a partir del 3r interval
 * *Reduir volum respecte S8 (–30%) peró mantenir intensitat. Genóll fresc per la cursa.*
 
-### SETMANA 10 (cursa)
+### SETMANA 10 (3–9 ago) — **CURSA: 9 AGOST**
 
-* 10’ suau
-* 4 x 1’ ritme cursa
+* 10' suau
+* 4 x 1' ritme cursa
 * **Ritme objectiu:** ~6:15 /km (activació, no esgotament)
 * **FC referéncia:** no superar 160 bpm
 
@@ -117,47 +117,47 @@ Ordre (no dies concrets):
 
 # 🏔️ TRAIL ESPECÍFIC — PROGRESSIÓ
 
-### SETMANA 1
+### SETMANA 1 (1–7 juny)
 
 * 6 km / +200 m (suau)
 
-### SETMANA 2
+### SETMANA 2 (8–14 juny)
 
 * 7 km / +250 m
 
-### SETMANA 3
+### SETMANA 3 (15–21 juny)
 
 * 8 km / +300 m
 
-### SETMANA 4
+### SETMANA 4 (22–28 juny)
 
 * 9 km / +350 m
-* 10’ ritme cursa
+* 10' ritme cursa
 
-### SETMANA 5
+### SETMANA 5 (29 juny–5 juliol)
 
 * 10 km / +400 m
-* 15’ ritme cursa
+* 15' ritme cursa
 
-### SETMANA 6
+### SETMANA 6 (6–12 juliol)
 
 * 11 km / +450 m
-* 2 x 10’ ritme cursa
+* 2 x 10' ritme cursa
 
-### SETMANA 7
+### SETMANA 7 (13–19 juliol)
 
 * 12 km / +500 m
 
-### SETMANA 8
+### SETMANA 8 (20–26 juliol)
 
 * 9 km / +400 m (simulació cursa)
   👉 amb gel
 
-### SETMANA 9
+### SETMANA 9 (27 jul–2 ago)
 
 * 8 km / +300 m (controlat)
 
-### SETMANA 10
+### SETMANA 10 (3–9 ago)
 
 * 20–30 min suau
 
@@ -201,12 +201,12 @@ Ordre (no dies concrets):
 * Wall sit → 3x45s
 * Salt lateral → 3x15
 
-## SETMANA 9
+## SETMANA 9 (27 jul–2 ago)
 
 * Reduir volum (-30%)
 * Mantenir intensitat
 
-## SETMANA 10
+## SETMANA 10 (3–9 ago)
 
 * 1 sessió molt suau (activació)
 
@@ -287,7 +287,7 @@ Ordre (no dies concrets):
 * **Al trail:** Encadena 2–3 baixades consecutives sense aturar-te (simula km 5–9 de la cursa)
 * **Setmana 8 (simulació):** Recorre tot el tram de baixada de la cursa al ritme objectiu
 
-### SETMANA 9 (tapering): Baixades curtes i controlades
+### SETMANA 9 (27 jul–2 ago) — tapering: Baixades curtes i controlades
 * Nomes 2–3 baixades de 150 m a ritme moderat
 * Prioritat: no acumular fatiga muscular ni irritar genólls
 
