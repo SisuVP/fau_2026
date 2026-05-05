@@ -37,34 +37,44 @@ Ordre (no dies concrets):
 
 ## 🔥 SESSIÓ QUALITAT — PROGRESSIÓ SETMANAL
 
-### SETMANA 1
+### SETMANA 1 (base: series curtes, genóll primer)
 
-* 10’ escalfament
+* 10’ escalfament suau (incloure 5’ caminada)
 * 6 x (1’ pujada RPE 8 + baixar caminant)
 * 10’ suau
+* *Justificació: genóll s’ha d’adaptar al volum excèntric. Sèries curtes = menys risc de condropàtia.*
 
 ### SETMANA 2
 
 * 10’ escalfament
-* 7 x (1’ pujada)
+* 8 x (1’ pujada + baixar caminant)
 * 10’ suau
+* *Més repeticions, mateixa durada — augmenta volum sense allargar l’esforç sostingut.*
 
 ### SETMANA 3
 
 * 10’ escalfament
-* 8 x (1’ pujada)
+* 5 x (2’ pujada + baixar caminant)
 * 10’ suau
+* **Ritme objectiu pujada:** ~7:30–8:00 /km (sostenible 2 min seguits)
+* *Primer allargament: 2 min de pujada contínua comença a simular el que et trobaràs a la cursa.*
 
 ### SETMANA 4
 
 * 10’ escalfament
-* 6 x (1’30 pujada forta)
+* 6 x (2’ pujada forta + baixar caminant)
 * 10’ suau
+* **Ritme objectiu pujada:** ~7:15–7:45 /km | FC: 163–172 bpm
+* *Intensitat alta en 2 min — treballes per sobre del llindar, com a les seccions crítiques de la cursa.*
 
 ### SETMANA 5
 
 * 10’ escalfament
-* 8 x (1’30 pujada)
+* 5 x (3’ pujada + baixar caminant 2’)
+* 10’ suau
+* **Ritme objectiu pujada:** ~7:30–8:00 /km (ritme sostenible 3 min)
+* **FC referéncia:** 160–170 bpm
+* *3 minuts de pujada = longitud comparable a les seccions >10% de la cursa (100–200 m de desnivell). Primer cop que entrenes l’esforç real.*
 
 ### SETMANA 6
 
@@ -87,12 +97,14 @@ Ordre (no dies concrets):
 * **Ritme objectiu en pujada:** 7:15-7:45 /km (no forçar el ritme pla — aquí és pujada)
 * **FC referéncia:** 163-173 bpm
 
-### SETMANA 9
+### SETMANA 9 (tapering: tornem a sèries curtes, velocitat pura)
 
 * 10’ escalfament
-* 10 x 1’30 fort
-* **Ritme objectiu:** 5:45-6:15 /km (esforç percebut RPE 8-9)
+* 8 x (2’ fort en pujada + 2’ descans caminant)
+* 10’ suau
+* **Ritme objectiu:** 7:00–7:30 /km en pujada (RPE 8–9, molt fort)
 * **FC referéncia:** >165 bpm a partir del 3r interval
+* *Reduir volum respecte S8 (–30%) peró mantenir intensitat. Genóll fresc per la cursa.*
 
 ### SETMANA 10 (cursa)
 
