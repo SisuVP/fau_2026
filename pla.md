@@ -1,233 +1,309 @@
-# 🏔️ Pla d’entrenament trail 9 km (+400 m)
+# 🏔️ PLA COMPLET TRAIL 9 km (+400 m)
 
-**Objectiu:** Sub 1h (optimitzant rendiment)
-**Període:** 27 maig → 9 agost
-
----
-
-# 🧠 Context
-
-* Bon nivell actual en trail amb desnivell
-* Ritmes propers a objectiu
-* Limitació: condropatia genolls → reforç de quàdriceps imprescindible
-* Clau: pujar eficient + baixar sense frenar
+**Objectiu:** Sub 1h (target ~58:30)
+**Període:** 27 maig → 9 agost (10 setmanes)
 
 ---
 
-# 📅 Estructura setmanal
+# 🧠 ESTRATÈGIA GLOBAL
 
-Ordre recomanat:
+Aquest pla no busca sumar km → busca **rendiment específic**:
 
-1. 🏋️ Força
+* ✔️ Pujades eficients (motor)
+* ✔️ Baixades sense frenar (temps gratis)
+* ✔️ Genoll protegit (clau per rendir)
+* ✔️ Nutrició optimitzada (minuts finals)
+
+---
+
+# 📅 ESTRUCTURA SETMANAL (FIXA)
+
+Ordre (no dies concrets):
+
+1. 🏋️ Força principal
 2. ❌ Descans
-3. 🔥 Qualitat
+3. 🔥 CÓRRER qualitat
 4. ❌ Descans
-5. 🏔️ Trail
-6. 🏋️ Opcional
+5. 🏔️ Trail específic
+6. 🏋️ Força opcional
 7. ❌ Descans
 
-👉 24–48h entre sessions dures
+👉 24–48h entre sessions exigents
 
 ---
 
-# 🏃 Zones de ritme
-
-* Suau: 7:15 – 8:30 min/km
-* Ritme cursa: 6:10 – 6:40 min/km
-* Intensitat alta: 5:00 – 5:40 min/km
+# 🏃‍♂️ ENTRENAMENT DE CÓRRER (DETALL EXTENS)
 
 ---
 
-# 🍌 ENTRENAMENT NUTRICIONAL
+## 🔥 SESSIÓ QUALITAT — PROGRESSIÓ SETMANAL
 
-## Objectiu
+### SETMANA 1
 
-* Tolerància digestiva
-* Energia estable
-* Estratègia testada
-
----
-
-## 🔁 1 cop/setmana (tirada >60’)
-
-* 1 gel (20–25g CHO)
-* Aigua
+* 10’ escalfament
+* 6 x (1’ pujada RPE 8 + baixar caminant)
+* 10’ suau
 
 ---
 
-## 🔁 Sessions de qualitat
+### SETMANA 2
 
-* Provar:
-
-  * cafè previ
-  * snack lleuger
-
----
-
-## ⚠️ Normes
-
-* No experimentar el dia de cursa
-* Baixa fibra abans d’entrenar
+* 10’ escalfament
+* 7 x (1’ pujada)
+* 10’ suau
 
 ---
 
-# 🧪 ENTRENAMENT CHO (HIDRATS)
+### SETMANA 3
 
-## Objectiu
-
-Millorar utilització de glucogen i tolerància
-
----
-
-## Protocol (1 cop/setmana)
-
-En sessió de 60–90 min:
-
-* Setmanes 1–3:
-
-  * 20g CHO/h
-
-* Setmanes 4–7:
-
-  * 30g CHO/h
-
-* Setmanes 8+:
-
-  * 40g CHO/h (opcional)
-
-👉 Formats:
-
-* gels
-* beguda amb CHO (en entrenament, no cursa)
+* 10’ escalfament
+* 8 x (1’ pujada)
+* 10’ suau
 
 ---
 
-## Beneficis
+### SETMANA 4
 
-* Millor absorció
-* Menys risc de “pájara”
-* Energia més estable
-
----
-
-# 🧪 ENTRENAMENT NITRATS
-
-## Objectiu
-
-Millorar eficiència i resistència en pujada
+* 10’ escalfament
+* 6 x (1’30 pujada forta)
+* 10’ suau
 
 ---
 
-## Protocol entrenament (setmanes 4–10)
+### SETMANA 5
 
-1–2 cops/setmana:
-
-* 400–600 mg nitrats
-* 2–3h abans de sessió clau
-
-👉 Font:
-
-* suc de remolatxa
+* 10’ escalfament
+* 8 x (1’30 pujada)
 
 ---
 
-## Test digestiu
+### SETMANA 6
 
-👉 Obligatori abans de cursa
-
----
-
-# 📆 FASES ENTRENAMENT
-
-## FASE 1 (27 maig → 16 juny)
-
-* Pujades curtes
-* Trail 6–8 km
-* Força base
+* 10’ escalfament
+* 3 x 8’ ritme cursa
+* 3’ recuperació
 
 ---
 
-## FASE 2 (17 juny → 14 juliol)
+### SETMANA 7
 
-* Ritme cursa
-* Trail 8–12 km
-* Força amb càrrega
-
----
-
-## FASE 3 (15 juliol → 3 agost)
-
-* Simulacions cursa
-* Ritme específic
-* Test nutrició final
+* 10’ escalfament
+* 4 x 8’ ritme cursa
 
 ---
 
-# 📆 SETMANA CURSA
+### SETMANA 8
 
-* Sessió curta qualitat
-* Activació suau
-* Descans total dia abans
+* 10’ escalfament
+* 4 x 5’ ritme cursa en pujada
 
 ---
 
-# 🍝 NUTRICIÓ PRE-CURSA
+### SETMANA 9
 
-## 2–3 dies abans
+* 10’ escalfament
+* 10 x 1’30 fort
 
-* ↑ hidrats (arròs, pasta, patata)
-* ↓ fibra i greixos
+---
+
+### SETMANA 10 (cursa)
+
+* 10’ suau
+* 4 x 1’ ritme cursa
+
+---
+
+# 🏔️ TRAIL ESPECÍFIC — PROGRESSIÓ
+
+---
+
+### SETMANA 1
+
+* 6 km / +200 m (suau)
+
+### SETMANA 2
+
+* 7 km / +250 m
+
+### SETMANA 3
+
+* 8 km / +300 m
+
+---
+
+### SETMANA 4
+
+* 9 km / +350 m
+* 10’ ritme cursa
+
+---
+
+### SETMANA 5
+
+* 10 km / +400 m
+* 15’ ritme cursa
+
+---
+
+### SETMANA 6
+
+* 11 km / +450 m
+* 2 x 10’ ritme cursa
+
+---
+
+### SETMANA 7
+
+* 12 km / +500 m
+
+---
+
+### SETMANA 8
+
+* 9 km / +400 m (simulació cursa)
+  👉 amb gel
+
+---
+
+### SETMANA 9
+
+* 8 km / +300 m (controlat)
+
+---
+
+### SETMANA 10
+
+* 20–30 min suau
+
+---
+
+# 🏋️ FORÇA — PROGRESSIÓ SETMANAL COMPLETA
+
+👉 Durada: 35–45 min
+👉 Tempo: control (especialment baixada)
+
+---
+
+## SETMANES 1–2 (adaptació)
+
+* Pistol assistit → 3x5
+* Step down → 3x6
+* Wall sit → 3x30s
+* Single leg deadlift → 3x8
+* Calf raises → 3x15
+* Side plank → 3x20s
+
+---
+
+## SETMANES 3–4
+
+* Pistol assistit → 3x6
+* Step down lent → 3x8
+* Wall sit → 3x40s
+* Deadlift → 3x10
+* Pont gluti 1 cama → 3x10
+* Calf raises → 3x20
+
+---
+
+## SETMANES 5–6
+
+* Pistol (menys assistència) → 3x6
+* Step down + pes → 3x8
+* Wall sit → 3x45s
+* Deadlift → 3x10
+* Saltets suaus → 3x20s
+
+---
+
+## SETMANES 7–8
+
+* Pistol → 3x6
+* Step down control → 3x10
+* Wall sit → 3x45s
+* Afegir:
+
+  * salt lateral suau → 3x15
+
+---
+
+## SETMANA 9
+
+* Reduir volum (-30%)
+* Mantenir intensitat
+
+---
+
+## SETMANA 10
+
+* 1 sessió molt suau (activació)
+
+---
+
+# 🏋️ FORÇA OPCIONAL (20–25 min)
+
+* Gluti mig banda → 3x12
+* Monster walk → 3x10 passos
+* Core lleuger
+* Mobilitat
+
+---
+
+# 🧪 ENTRENAMENT NUTRICIONAL
+
+---
+
+## CHO (1 cop/setmana)
+
+* Setm 1–3 → 20g/h
+* Setm 4–7 → 30g/h
+* Setm 8 → 40g/h (test final)
+
+---
+
+## NITRATS
+
+* Setm 4–9 → 1–2 cops/setmana
+* 400–600 mg
+* 2–3h abans
+
+---
+
+# 🍝 SETMANA CURSA
+
+## 3–5 dies abans
+
+* ↑ hidrats
+* ↓ fibra
 
 ---
 
 ## Dia abans
 
-* Menjar conegut
-* Alt en hidrats
-* Sopar lleuger
+* menjar simple
+* hidratació normal
 
 ---
 
-# 🥣 ESMORZAR DIA CURSA
+# 🥣 DIA DE CURSA
 
-## ⏱️ 2h30–3h abans
+## 3h abans
 
-Opció:
-
-* Torrades + mel
-* Plàtan
-* Cafè
-* Aigua
+* torrades + mel
+* plàtan
+* cafè
 
 ---
 
-# 🧪 NITRATS PRE-CURSA
+## 2–3h abans
 
-## Opció òptima
-
-* 3–5 dies abans: consum diari
-* Dia cursa: 400–600 mg 2–3h abans
+* nitrats
 
 ---
 
-# 🧂 ELECTRÒLITS
+## 10 min abans
 
-* 1 càpsula abans de sortir (si calor)
-* No necessari durant
-
----
-
-# 💧 HIDRATACIÓ
-
-* 150–250 ml aigua
-* 2–3 glops amb gel
-
----
-
-# 🍌 NUTRICIÓ EN CURSA
-
-* 1 gel → minut 18–22
-* Aigua mínima
+* petits glops aigua
 
 ---
 
@@ -235,71 +311,54 @@ Opció:
 
 ## 0–5 min
 
-* Ritme controlat (6:30–6:50/km)
-
----
+* control total
 
 ## 5–12 min
 
-* Pujada forta
-* Alternar caminar/córrer
-
----
-
-## 12–18 min
-
-* Transició
-* Preparar gel
-
----
+* pujada → gestionar
 
 ## 18–22 min
 
 👉 GEL + AIGUA
 
----
-
-## 18–30 min
-
-* Baixada
-* Ritme ràpid controlat
-
----
-
 ## 30–40 min
 
-* Ritme cursa sostingut
-
----
+* ritme fort
 
 ## 40–50 min
 
-* Pujades finals
-* Ritme constant
+* aguantar pujades
+
+## 50+
+
+* màxim esforç
 
 ---
 
-## 50–final
+# 💧 HIDRATACIÓ
 
-* Progressiu màxim
-
----
-
-# 🎯 CLAUS FINALS
-
-* Control inicial
-* Gel ben col·locat
-* Baixades eficients
+* 150–250 ml
+* sense CHO
 
 ---
 
-# 🧠 OBJECTIU
+# 🧂 ELECTRÒLITS
 
-👉 Temps estimat: **~58:30**
+* 1 càpsula pre-sortida (si calor)
 
-👉 Rang real:
+---
 
-* 57:30 – 59:30
+# 🎯 OBJECTIU FINAL
+
+👉 **~58:30**
+👉 Rang: 57:30 – 59:30
+
+---
+
+# 🧠 CLAU ABSOLUTA
+
+👉 No guanyes la cursa entrenant més
+👉 La guanyes executant millor
 
 ---
 
