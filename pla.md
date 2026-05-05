@@ -13,6 +13,7 @@ Aquest pla no busca sumar km → busca **rendiment específic**:
 * ✔️ Baixades sense frenar (temps gratis)
 * ✔️ Genoll protegit (clau per rendir)
 * ✔️ Nutrició optimitzada (minuts finals)
+* ✔️ Gestió de la calor (factor crític)
 
 ---
 
@@ -34,8 +35,6 @@ Ordre (no dies concrets):
 
 # 🏃‍♂️ ENTRENAMENT DE CÓRRER (DETALL EXTENS)
 
----
-
 ## 🔥 SESSIÓ QUALITAT — PROGRESSIÓ SETMANAL
 
 ### SETMANA 1
@@ -44,15 +43,11 @@ Ordre (no dies concrets):
 * 6 x (1’ pujada RPE 8 + baixar caminant)
 * 10’ suau
 
----
-
 ### SETMANA 2
 
 * 10’ escalfament
 * 7 x (1’ pujada)
 * 10’ suau
-
----
 
 ### SETMANA 3
 
@@ -60,22 +55,16 @@ Ordre (no dies concrets):
 * 8 x (1’ pujada)
 * 10’ suau
 
----
-
 ### SETMANA 4
 
 * 10’ escalfament
 * 6 x (1’30 pujada forta)
 * 10’ suau
 
----
-
 ### SETMANA 5
 
 * 10’ escalfament
 * 8 x (1’30 pujada)
-
----
 
 ### SETMANA 6
 
@@ -83,28 +72,20 @@ Ordre (no dies concrets):
 * 3 x 8’ ritme cursa
 * 3’ recuperació
 
----
-
 ### SETMANA 7
 
 * 10’ escalfament
 * 4 x 8’ ritme cursa
-
----
 
 ### SETMANA 8
 
 * 10’ escalfament
 * 4 x 5’ ritme cursa en pujada
 
----
-
 ### SETMANA 9
 
 * 10’ escalfament
 * 10 x 1’30 fort
-
----
 
 ### SETMANA 10 (cursa)
 
@@ -114,8 +95,6 @@ Ordre (no dies concrets):
 ---
 
 # 🏔️ TRAIL ESPECÍFIC — PROGRESSIÓ
-
----
 
 ### SETMANA 1
 
@@ -129,47 +108,33 @@ Ordre (no dies concrets):
 
 * 8 km / +300 m
 
----
-
 ### SETMANA 4
 
 * 9 km / +350 m
 * 10’ ritme cursa
-
----
 
 ### SETMANA 5
 
 * 10 km / +400 m
 * 15’ ritme cursa
 
----
-
 ### SETMANA 6
 
 * 11 km / +450 m
 * 2 x 10’ ritme cursa
 
----
-
 ### SETMANA 7
 
 * 12 km / +500 m
-
----
 
 ### SETMANA 8
 
 * 9 km / +400 m (simulació cursa)
   👉 amb gel
 
----
-
 ### SETMANA 9
 
 * 8 km / +300 m (controlat)
-
----
 
 ### SETMANA 10
 
@@ -180,11 +145,9 @@ Ordre (no dies concrets):
 # 🏋️ FORÇA — PROGRESSIÓ SETMANAL COMPLETA
 
 👉 Durada: 35–45 min
-👉 Tempo: control (especialment baixada)
+👉 Tempo: control (especialment excèntric)
 
----
-
-## SETMANES 1–2 (adaptació)
+## SETMANES 1–2
 
 * Pistol assistit → 3x5
 * Step down → 3x6
@@ -192,8 +155,6 @@ Ordre (no dies concrets):
 * Single leg deadlift → 3x8
 * Calf raises → 3x15
 * Side plank → 3x20s
-
----
 
 ## SETMANES 3–4
 
@@ -204,35 +165,25 @@ Ordre (no dies concrets):
 * Pont gluti 1 cama → 3x10
 * Calf raises → 3x20
 
----
-
 ## SETMANES 5–6
 
-* Pistol (menys assistència) → 3x6
+* Pistol → 3x6
 * Step down + pes → 3x8
 * Wall sit → 3x45s
 * Deadlift → 3x10
 * Saltets suaus → 3x20s
-
----
 
 ## SETMANES 7–8
 
 * Pistol → 3x6
 * Step down control → 3x10
 * Wall sit → 3x45s
-* Afegir:
-
-  * salt lateral suau → 3x15
-
----
+* Salt lateral → 3x15
 
 ## SETMANA 9
 
 * Reduir volum (-30%)
 * Mantenir intensitat
-
----
 
 ## SETMANA 10
 
@@ -269,14 +220,53 @@ Ordre (no dies concrets):
 
 ---
 
+# ☕🍌 ESTRATÈGIA CAFEÏNA I GEL
+
+## 🎯 Protocol òptim
+
+### Abans de cursa
+
+* Cafè → **80–100 mg cafeïna (60–90 min abans)**
+
+---
+
+### Durant cursa (CLAU)
+
+👉 Gel recomanat:
+
+**Crown Sport Nutrition HyperGel 30 Hydro Cafeína**
+
+* ~30g CHO
+* ~50 mg cafeïna
+* textura molt líquida (ideal calor + pujada)
+
+---
+
+## ⏱️ Timing exacte
+
+* Min 18–22
+* Prendre en 2–3 glops
+* 2–3 glops d’aigua
+
+---
+
+## 🧠 Alternatives
+
+* Si no toleres bé:
+
+  * 226ERS High Energy Gel Cafeína sabor cola
+* Si vols màxima digestibilitat:
+
+  * Maurten Gel 100 CAF 100
+
+---
+
 # 🍝 SETMANA CURSA
 
 ## 3–5 dies abans
 
 * ↑ hidrats
 * ↓ fibra
-
----
 
 ## Dia abans
 
@@ -293,13 +283,9 @@ Ordre (no dies concrets):
 * plàtan
 * cafè
 
----
-
 ## 2–3h abans
 
 * nitrats
-
----
 
 ## 10 min abans
 
@@ -311,7 +297,7 @@ Ordre (no dies concrets):
 
 ## 0–5 min
 
-* control total
+* ritme controlat (+5–10% més lent si fa calor)
 
 ## 5–12 min
 
@@ -335,16 +321,56 @@ Ordre (no dies concrets):
 
 ---
 
-# 💧 HIDRATACIÓ
+# ☀️ GESTIÓ DE LA CALOR (CRÍTIC)
 
-* 150–250 ml
-* sense CHO
+## 🧢 Equip
+
+* gorra lleugera (millor mullada abans de sortir)
 
 ---
 
-# 🧂 ELECTRÒLITS
+## 💧 Refredament actiu
 
-* 1 càpsula pre-sortida (si calor)
+* mullar:
+
+  * cap
+  * clatell
+  * canells
+
+---
+
+## 🥤 Hidratació
+
+* 250–300 ml total
+* petits glops cada 10–15 min
+
+---
+
+## 🏃 Ritme
+
+* inici més conservador
+* progressió posterior
+
+---
+
+## 🧂 Sodi
+
+* 1 càpsula abans de sortir
+
+---
+
+## ❗ Errors a evitar
+
+* sortir massa fort
+* gel massa tard
+* no hidratar-se fins tenir set
+
+---
+
+# 💧 HIDRATACIÓ
+
+* 250–300 ml
+* sense CHO
 
 ---
 
