@@ -9,236 +9,302 @@
 
 * Bon nivell actual en trail amb desnivell
 * Ritmes propers a objectiu
-* Limitació: condropatia genolls → cal controlar impacte i reforçar quàdriceps
-* Clau: millorar eficiència en pujada + no perdre temps en baixades
+* Limitació: condropatia genolls → reforç de quàdriceps imprescindible
+* Clau: pujar eficient + baixar sense frenar
 
 ---
 
-# 📅 Estructura setmanal (flexible)
+# 📅 Estructura setmanal
 
 Ordre recomanat:
 
 1. 🏋️ Força
-2. ❌ Descans / mobilitat
-3. 🔥 Sessió qualitat (pujades / intervals)
+2. ❌ Descans
+3. 🔥 Qualitat
 4. ❌ Descans
-5. 🏔️ Trail específic
-6. 🏋️ Força opcional
+5. 🏔️ Trail
+6. 🏋️ Opcional
 7. ❌ Descans
 
-👉 Sempre deixar **mínim 24–48h** entre sessions dures
+👉 24–48h entre sessions dures
 
 ---
 
-# 🏃 Zones de ritme (orientatives)
+# 🏃 Zones de ritme
 
 * Suau: 7:15 – 8:30 min/km
 * Ritme cursa: 6:10 – 6:40 min/km
 * Intensitat alta: 5:00 – 5:40 min/km
 
-👉 En pujada guia’t més per esforç que per ritme
-
 ---
 
-# 📆 FASE 1 — Base específica (27 maig → 16 juny)
+# 🍌 ENTRENAMENT NUTRICIONAL
 
 ## Objectiu
 
-* Introduir qualitat
-* Adaptar genolls
-* Construir força
+* Tolerància digestiva
+* Energia estable
+* Estratègia testada
 
 ---
 
-## 🔥 Sessió qualitat
+## 🔁 1 cop/setmana (tirada >60’)
 
-* 10’ escalfament
-* 6 x (1’ pujada forta + baixar caminant)
-* 10’ suau
-
-👉 Progressar fins a 8 repeticions
+* 1 gel (20–25g CHO)
+* Aigua
 
 ---
 
-## 🏔️ Trail
+## 🔁 Sessions de qualitat
 
-* 6–8 km
-* +200–300 m
-* Ritme suau
+* Provar:
 
----
-
-## 🏋️ Força (obligatòria)
-
-* Pistol squat assistit → 3x6
-* Single leg deadlift → 3x10
-* Elevacions de taló → 3x20
-* Side plank → 3x20s
-* Gluti mig amb banda → 3x12
+  * cafè previ
+  * snack lleuger
 
 ---
 
-## 🏋️ Opcional (genoll)
+## ⚠️ Normes
 
-* Isomètrics quàdriceps (wall sit) → 3x30-45s
-* Step down lent → 3x8
-* Mobilitat
+* No experimentar el dia de cursa
+* Baixa fibra abans d’entrenar
 
 ---
 
-# 📆 FASE 2 — Construcció (17 juny → 14 juliol)
+# 🧪 ENTRENAMENT CHO (HIDRATS)
 
 ## Objectiu
 
-* Millorar potència en pujada
-* Introduir ritme cursa
+Millorar utilització de glucogen i tolerància
 
 ---
 
-## 🔥 Sessió qualitat (alternar)
+## Protocol (1 cop/setmana)
 
-### A) Pujades curtes
+En sessió de 60–90 min:
 
-* 10’ escalfament
-* 8–10 x (1’ fort + baixar)
-* 10’ suau
+* Setmanes 1–3:
 
-### B) Blocs ritme cursa
+  * 20g CHO/h
 
-* 10’ escalfament
-* 3 x 8’ a ritme cursa
-* 3’ recuperació
-* 10’ suau
+* Setmanes 4–7:
 
----
+  * 30g CHO/h
 
-## 🏔️ Trail
+* Setmanes 8+:
 
-* 8–12 km
-* +300–500 m
-* Incloure:
+  * 40g CHO/h (opcional)
 
-  * 10–15 min a ritme cursa
+👉 Formats:
+
+* gels
+* beguda amb CHO (en entrenament, no cursa)
 
 ---
 
-## 🏋️ Força
+## Beneficis
 
-Mateixa base però:
-
-* Afegir càrrega progressiva
-* Control excèntric (baixada lenta)
-
----
-
-## 🏋️ Opcional
-
-* Treball específic genoll + core
+* Millor absorció
+* Menys risc de “pájara”
+* Energia més estable
 
 ---
 
-# 📆 FASE 3 — Específica (15 juliol → 3 agost)
+# 🧪 ENTRENAMENT NITRATS
 
 ## Objectiu
 
-* Simular cursa
-* Afinar ritme
+Millorar eficiència i resistència en pujada
 
 ---
 
-## 🔥 Sessió qualitat
+## Protocol entrenament (setmanes 4–10)
 
-### Opció A
+1–2 cops/setmana:
 
-* 10’ escalfament
-* 4 x (5’ ritme cursa en pujada suau)
-* 3’ recuperació
+* 400–600 mg nitrats
+* 2–3h abans de sessió clau
 
-### Opció B
+👉 Font:
 
-* 10 x (1’30 pujada forta)
-
----
-
-## 🏔️ Trail (CLAU)
-
-* 8–10 km
-* +350–450 m
-
-👉 Simular cursa:
-
-* Sortida controlada
-* Ritme viu en pujades corribles
-* Baixades amb control tècnic
+* suc de remolatxa
 
 ---
 
-## 🧠 Treball específic
+## Test digestiu
 
-* Practicar baixades sense frenar en excés
-* Cadència alta
-
----
-
-# 📆 SETMANA CURSA (4 → 9 agost)
-
-## 🔥 Sessió curta
-
-* 10’ suau
-* 4 x 1’ ritme cursa
-* Recuperació completa
+👉 Obligatori abans de cursa
 
 ---
 
-## 🏃 Activació
+# 📆 FASES ENTRENAMENT
 
-* 20–30 min molt suau (2 dies abans)
+## FASE 1 (27 maig → 16 juny)
 
----
-
-## ❌ Descans
-
-* Dia abans: descans total
+* Pujades curtes
+* Trail 6–8 km
+* Força base
 
 ---
 
-# 🏁 ESTRATÈGIA DE CURSA
+## FASE 2 (17 juny → 14 juliol)
 
-## Sortida
-
-* Conservador (primer 10–15%)
-
-## Pujades
-
-* Ritme constant, sense petar
-* Caminar trams molt durs (>20%)
-
-## Baixades
-
-* Clau per temps final:
-
-  * No bloquejar genoll
-  * Passos curts i ràpids
-
-## Últims 2 km
-
-* Donar-ho tot (aquí es guanya el sub 1h)
+* Ritme cursa
+* Trail 8–12 km
+* Força amb càrrega
 
 ---
 
-# ⚠️ Notes importants
+## FASE 3 (15 juliol → 3 agost)
 
-* Si dolor genoll → reduir volum immediatament
-* Prioritzar qualitat > quantitat
-* Millor fer 2 sessions bones que 4 mediocres
+* Simulacions cursa
+* Ritme específic
+* Test nutrició final
 
 ---
 
-# 🧠 Clau final
+# 📆 SETMANA CURSA
 
-👉 Ja tens el nivell
-👉 Aquest pla és per convertir-lo en rendiment
+* Sessió curta qualitat
+* Activació suau
+* Descans total dia abans
 
-**Si el segueixes bé → sub 1h molt factible**
+---
+
+# 🍝 NUTRICIÓ PRE-CURSA
+
+## 2–3 dies abans
+
+* ↑ hidrats (arròs, pasta, patata)
+* ↓ fibra i greixos
+
+---
+
+## Dia abans
+
+* Menjar conegut
+* Alt en hidrats
+* Sopar lleuger
+
+---
+
+# 🥣 ESMORZAR DIA CURSA
+
+## ⏱️ 2h30–3h abans
+
+Opció:
+
+* Torrades + mel
+* Plàtan
+* Cafè
+* Aigua
+
+---
+
+# 🧪 NITRATS PRE-CURSA
+
+## Opció òptima
+
+* 3–5 dies abans: consum diari
+* Dia cursa: 400–600 mg 2–3h abans
+
+---
+
+# 🧂 ELECTRÒLITS
+
+* 1 càpsula abans de sortir (si calor)
+* No necessari durant
+
+---
+
+# 💧 HIDRATACIÓ
+
+* 150–250 ml aigua
+* 2–3 glops amb gel
+
+---
+
+# 🍌 NUTRICIÓ EN CURSA
+
+* 1 gel → minut 18–22
+* Aigua mínima
+
+---
+
+# 🏁 ESTRATÈGIA MINUT A MINUT
+
+## 0–5 min
+
+* Ritme controlat (6:30–6:50/km)
+
+---
+
+## 5–12 min
+
+* Pujada forta
+* Alternar caminar/córrer
+
+---
+
+## 12–18 min
+
+* Transició
+* Preparar gel
+
+---
+
+## 18–22 min
+
+👉 GEL + AIGUA
+
+---
+
+## 18–30 min
+
+* Baixada
+* Ritme ràpid controlat
+
+---
+
+## 30–40 min
+
+* Ritme cursa sostingut
+
+---
+
+## 40–50 min
+
+* Pujades finals
+* Ritme constant
+
+---
+
+## 50–final
+
+* Progressiu màxim
+
+---
+
+# 🎯 CLAUS FINALS
+
+* Control inicial
+* Gel ben col·locat
+* Baixades eficients
+
+---
+
+# 🧠 OBJECTIU
+
+👉 Temps estimat: **~58:30**
+
+👉 Rang real:
+
+* 57:30 – 59:30
+
+---
+
+# 🧠 MANTRA
+
+**“Control al principi → agressiu al final”**
 
 ---
