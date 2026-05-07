@@ -165,59 +165,118 @@ Ordre (no dies concrets):
 
 # 🏋️ FORÇA — PROGRESSIÓ SETMANAL COMPLETA
 
-👉 Durada: 35–45 min
-👉 Tempo: control (especialment excèntric)
-
-## SETMANES 1–2
-
-* Pistol assistit → 3x5
-* Step down → 3x6
-* Wall sit → 3x30s
-* Single leg deadlift → 3x8
-* Calf raises → 3x15
-* Side plank → 3x20s
-
-## SETMANES 3–4
-
-* Pistol assistit → 3x6
-* Step down lent → 3x8
-* Wall sit → 3x40s
-* Deadlift → 3x10
-* Pont gluti 1 cama → 3x10
-* Calf raises → 3x20
-
-## SETMANES 5–6
-
-* Pistol → 3x6
-* Step down + pes → 3x8
-* Wall sit → 3x45s
-* Deadlift → 3x10
-* Saltets suaus → 3x20s
-
-## SETMANES 7–8
-
-* Pistol → 3x6
-* Step down control → 3x10
-* Wall sit → 3x45s
-* Salt lateral → 3x15
-
-## SETMANA 9 (27 jul–2 ago)
-
-* Reduir volum (-30%)
-* Mantenir intensitat
-
-## SETMANA 10 (3–9 ago)
-
-* 1 sessió molt suau (activació)
+👉 Durada: 45–55 min
+👉 Material: mancuernes, kettlebell 16 kg, bandes
+👉 Tempo excèntric: **3–4 seg baixant** sempre, puja controlat (no explosiu fins S5+)
+👉 Descansos: 90 seg entre sèries d'un mateix exercici
 
 ---
 
-# 🏋️ FORÇA OPCIONAL (20–25 min)
+## SETMANES 1–2 (1–14 juny) — Base excèntrica, aprendre els patrons
 
-* Gluti mig banda → 3x12
-* Monster walk → 3x10 passos
-* Core lleuger
-* Mobilitat
+> Objectiu: activar el genoll de forma segura, establir els patrons motors. No busques fatiga muscular profunda — busques execució perfecta.
+
+| Exercici | Sèries × Reps | Notes |
+|---|---|---|
+| **Step down excèntric** | 3×8 cada cama | Baixar en 4 seg, peu sobre escaló de 15–20 cm. Genoll no passes la punta del peu |
+| **Hip thrust bilateral** (KB 16 kg) | 3×12 | Espatlles al banc, KB a les cuixes. Apreta gluti a dalt 2 seg |
+| **Goblet squat** (KB 16 kg) | 3×8 | KB agafada verticalment al pit. Baixar fins paral·lel, genolls alineats. Menys pressió rotulia que el pistol — base del patró de squat |
+| **Single leg RDL** (mancuerna lleu 6–8 kg) | 3×8 cada cama | Bisagra de maluc, esquena recta, genoll lleugerament flexionat |
+| **Calf raise excèntric unilateral** | 3×12 cada cama | Pujar amb 2 cames, baixar amb 1 en 4 seg. Peu a la vora d'un escaló |
+| **Planxa lateral estàtica** | 3×25 seg cada costat | Cos recte, no deixar caure el maluc |
+
+---
+
+## SETMANES 3–4 (15–28 juny) — Càrrega unilateral, introducció potència
+
+> Objectiu: construir força real de quàdríceps, gluti gran i isquiotibials. Aquests músculs són el motor de les pujades.
+
+| Exercici | Sèries × Reps | Notes |
+|---|---|---|
+| **Bulgarian split squat** (mancuernes 8–10 kg cada mà) | 3×8 cada cama | Peu del darrere al banc, genoll davanter no ultrapassa gaire la punta del peu |
+| **Step down excèntric** (4 seg) | 3×10 cada cama | Augmenta l'alçada de l'escaló a 25 cm si no hi ha dolor |
+| **Hip thrust unilateral** (KB 16 kg) | 3×10 cada cama | Com S1–2 però una cama sola. Més exigent per al gluti |
+| **Pistol squat assistit** (banda) | 3×6 cada cama | Introducció: banda des de sostre/barra o agafant-se a un marc de porta. Controla la baixada en 3 seg |
+| **Single leg RDL** (mancuerna 10–12 kg) | 3×10 cada cama | Augmenta pes respecte S1–2 |
+| **Sliding leg curl** | 3×10 | Estirat d'esquena, talons sobre tovallola en terra llis. Maluc a l'aire, llisca talons cap als glutis i torna. Isquiotibials cadena tancada |
+| **Calf raise excèntric unilateral** | 3×15 cada cama | Mateix patró, augmenta reps |
+| **Planxa lateral estàtica** | 3×30 seg cada costat | Progressió de S1–2 |
+
+---
+
+## SETMANES 5–6 (29 juny–12 juliol) — Pic de volum, excèntric ràpid, primer impacte
+
+> Objectiu: preparar el quàdriceps i el cartílag per a les baixades a alta velocitat. S'introdueix el treball pliomètric progressiu.
+
+| Exercici | Sèries × Reps | Notes |
+|---|---|---|
+| **Bulgarian split squat** (mancuernes 12–14 kg) | 4×8 cada cama | Augmenta pes. Si no n'hi ha prou, afegeix pausa de 2 seg a baix |
+| **Pistol squat** (lliure o mínim suport) | 3×5 cada cama | Progressió del pistol assistit. Si cal, un dit a la paret per l'equilibri |
+| **Step down excèntric ràpid** | 3×10 cada cama | Ara baixa en 2 seg (no 4). Simula el ritme real de baixada |
+| **Hip thrust unilateral** (KB 16 kg + banda) | 3×12 cada cama | Banda de resistència als genolls afegeix treball de gluti mig simultani |
+| **Deadlift romanès unilateral** (KB 16 kg) | 3×10 cada cama | Progressió del single leg RDL. Rang de moviment complet |
+| **Nordic curl excèntric** | 3×5 | Agenollat, peu ancorat (sofà / company). Cau endavant en 4–5 seg controlant amb isquiotibials. Torna empenyent amb les mans. Prioritat: no acceleris la caiguda |
+| **Salt unilateral davant-darrere** | 3×6 cada cama | Salta endavant i torna enrere amb la mateixa cama. Aterratge suau amb genoll flexionat |
+| **Calf raise excèntric unilateral amb pes** | 3×12 cada cama | Mancuerna a la mà homolateral (6–8 kg) |
+| **Dead bug** | 3×8 cada costat | Esquena a terra, braç i cama contraris s'extenen sense que la zona lumbar es despegui |
+
+---
+
+## SETMANES 7–8 (13–26 juliol) — Pic d'intensitat, màxima especificitat
+
+> Objectiu: el punt culminant de la força. Càrregues màximes, gestos molt específics de trail. Aquí es guanya el rendiment real a la cursa.
+
+| Exercici | Sèries × Reps | Notes |
+|---|---|---|
+| **Bulgarian split squat** (mancuernes 14–16 kg) | 4×6 cada cama | Pes màxim del cicle. Control absolut de l'excèntric |
+| **Pistol squat** (lliure) | 3×6 cada cama | Sense suport. Si cal pes extra per a sobrecàrrega, mancuerna lleu (4–6 kg) al pit |
+| **Step-up explosiu** (pes corporal o mancuernes lleus) | 4×6 cada cama | Puja fort i ràpid (simula el gest de pujar un graó fort a la cursa) |
+| **Hip thrust unilateral** (KB 16 kg) | 4×10 cada cama | Màxima contracció de gluti. Temps sota tensió alt |
+| **Deadlift romanès unilateral** (KB 16 kg) | 3×10 cada cama | Mantenir el pes i la qualitat d'execució |
+| **Nordic curl excèntric** | 3×6 | Mateixa tècnica que S5–6, ara augmenta reps. Baixa en 5 seg si pots |
+| **Salt unilateral lateral controlat** | 3×8 cada cama | Salta lateralment amb 1 cama, aterratge suau amb genoll flexionat — ara que el genoll porta 6 setmanes d'adaptació |
+| **Calf raise excèntric unilateral amb pes** (10 kg) | 3×12 cada cama | Càrrega màxima del cicle |
+| **Planxa lateral dinàmica** (toc de maluc a terra) | 3×12 cada costat | Des de planxa lateral, baixa el maluc fins quasi tocar terra i puja. Core dinàmic |
+
+---
+
+## SETMANA 9 (27 jul–2 ago) — Tapering: −30% volum, mateixa intensitat
+
+> No redueixis el pes. Redueix sèries: de 4 a 3, de 3 a 2. Mantenir el sistema nerviós actiu sense acumular fatiga.
+
+| Exercici | Sèries × Reps | Notes |
+|---|---|---|
+| **Bulgarian split squat** (mateix pes S7–8) | 2×6 cada cama | Menys volum, mateixa exigència |
+| **Pistol squat** (lliure) | 2×5 cada cama | |
+| **Step-up explosiu** | 2×6 cada cama | |
+| **Hip thrust unilateral** (KB 16 kg) | 2×8 cada cama | |
+| **Deadlift romanès unilateral** (KB 16 kg) | 2×8 cada cama | |
+| **Nordic curl excèntric** | 2×4 | Baixa en 5 seg, sense forçar |
+| **Calf raise excèntric unilateral** | 2×10 cada cama | |
+| **Dead bug** | 2×6 cada costat | |
+
+---
+
+## SETMANA 10 (3–9 ago) — Activació pre-cursa (1 sessió, dimarts)
+
+> Només activació neuromuscular. L'objectiu és arribar fresc el diumenge, no crear adaptació.
+
+* Bulgarian split squat (pes moderat) → 2×4 cada cama
+* Hip thrust bilateral → 2×10
+* Calf raise excèntric unilateral → 2×8 cada cama
+* Planxa lateral estàtica → 2×20 seg cada costat
+
+---
+
+# 🏋️ FORÇA OPCIONAL (20–25 min) — afegir quan hi hagi temps
+
+> Complementa la sessió principal o es fa per separat. Prioritat: gluti mig i core.
+
+* **Gluti mig amb banda (clamshell)** → 3×15 cada costat — essencial per alinear el genoll en tota la progressió
+* **Monster walk** (banda als turmells) → 3×12 passos endavant + enrere
+* **Hip abduction lateral** (banda) → 3×15 cada costat
+* **Pallof press** (banda ancorada) → 3×10 cada costat — core anti-rotació, molt específic trail
+* **Mobilitat de maluc i turmell** → 5–8 min: rotacions, estirament flexors malucs, mobilitat turmell en paret
 
 ---
 
