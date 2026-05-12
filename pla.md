@@ -428,8 +428,10 @@ Ordre (no dies concrets):
 
 * **Dilluns:** 20–25 min suau pla (genólls frescos) + 4×1’ ritme cursa (~6:15 /km)
 * **Dimarts:** 1 sessió força molt lleu (activació): pistol assistit 2×5, step down 2×6, calf raises 2×10. **Sense dolor de genóll → si molesta, elimina**
-* **Dimecres en davant:** Descans actiu (passeig) o res
-* **Dijous–Divendres:** Descans total — no ténen en peu més de 2h/dia si pots evitar-ho
+* **Dimecres:** Descans actiu (passeig) o res
+* **Dijous:** Descans total — no ténen en peu més de 2h/dia si pots evitar-ho
+* **Divendres:** Activació neuromuscular — 15–20' trot molt suau + 4 x 20" acceleracions progressives (50%→80%) + 5' estiraments lleugers. *Manté el SNC despert sense fatiga ni impacte al genoll.*
+* **Dissabte:** Descans total — només preparar material
 
 ## 3–5 dies abans
 
@@ -488,9 +490,9 @@ Ordre (no dies concrets):
 ## 520 min (primera gran pujada: km 0.52.3, pendents 1317%)
 
 * **Caminar si la pendent >15%** — no és rendició, és estratégia (més ràpid que córrer esgotat)
-* Pas curt i freqüent en les seccions corredores (~7:308:00 /km)
+* Pas curt i freqüent en les seccions corredores (~7:30–8:00 /km)
 * Braços a les cuixes en les pujades més dures (prop el 8%)
-* FC: 165173 bpm acceptable en pujades fortes
+* FC: 165–173 bpm acceptable en pujades fortes *(però si fa molta calor, guia't per RPE — veure secció calor)*
 
 ## 1822 min (CRíTIC: GEL + AIGUA)
 
@@ -508,7 +510,7 @@ Ordre (no dies concrets):
 * Canvia de mode: cadència ALTA (>90 spm), pas CURT, cos inclinat endavant
 * **Seccions 1525% pendent:** no frenar amb els talons — deixa’t anar controlant amb la cadència
 * Genólls: atenció al dolor — si puja >3/10, reduir lleugerament la cadència
-* **Min 4050:** ritme fort sostenible (~5:205:45 /km en baixada corredora)
+* **Min 40–50:** ritme fort sostenible (~5:20–5:45 /km en baixada corredora)
 * **Min 50+:** buidar completament — últims km de baixada, més ràpid possible
 
 ---
@@ -542,6 +544,7 @@ Ordre (no dies concrets):
 
 * inici més conservador
 * progressió posterior
+* ⚠️ **FC vs RPE amb calor:** La calor dispara la FC +5–10 bpm al mateix esforç. No t'aferris als números de FC — si la FC va alta però la respiració i les cames responen, **confia en la percepció d'esforç (RPE), no en el pulsòmetre**. Al contrari, si la FC és baixa però el RPE és alt (cames feixugues, mala digestió), has sortit massa ràpid.
 
 ---
 
