@@ -30,17 +30,26 @@
 
 # Context dels dies previs a la cursa
 
-La setmana prèvia hi havia factors potencialment negatius:
+## Factors negatius acumulats
 
-- Mal de cap persistent
-- Congestió/mocs en dies previs
-- Descans deficient la nit abans de la cursa
+- **Partit de futbol (comiat nonis)** el dia abans: activitat intermitent amb esprints, girs, canvis de ritme i impactes. Va generar fatiga muscular addicional i contusions lleus (que no van afectar la cursa).
+- Mal de cap persistent per congestió i mocs
+- Descans deficient la nit abans
 - Molèstia a la zona lateral superior de la ròtula en flexió
+- Paracetamol al vespre per al mal de cap (sense efectes ergogènics)
+- Sessions de Compex sobre quàdriceps els dies previs
 - Dubtes sobre l'estat de forma abans de competir
 
-També havia realitzat sessions de Compex sobre quàdriceps els dies previs.
+**Nota sobre el Compex**: l'ús d'EMS (electroestimulació) el dia previ a competició pot induir microdanys musculars i fatiga residual en lloc de recuperació. Idealment s'hauria d'usar 2-3 dies abans.
 
-**Nota sobre el Compex**: l'ús d'EMS (electroestimulació) el dia previ a competició pot induir microdanys musculars i fatiga residual en lloc de recuperació. Idealment, el Compex s'hauria d'usar 2-3 dies abans. És possible que contribuís a les sensacions de cames pesades al sortir.
+## Sensacions subjectives durant la cursa
+
+- **Inici**: sensació de cames pesades, ritme que no sortia sol
+- **Trams centrals**: millora progressiva de sensacions
+- **Final**: bon acabat, però cansat i **al límit de rampes a les cames**
+- **Temperatura**: sensació de molta calor
+
+> L'objectiu de l'anàlisi és contrastar aquestes sensacions subjectives amb les dades objectives per determinar si l'estat de forma real era pitjor del que indicaven les sensacions.
 
 ---
 
@@ -320,7 +329,7 @@ La despesa energètica per minut és notablement estable (12,5-13,9 cal/min), co
 
 ---
 
-# Interpretació dels símptomes previs
+# Interpretació dels símptomes i sensacions previs
 
 ## Mal de cap i congestió
 
@@ -334,9 +343,38 @@ Tot i dormir malament, el sistema nerviós va respondre. En casos de fatiga prè
 
 Típic de **síndrome Patel·lofemoral** o **desequilibri entre vast medial i vast lateral del quàdriceps**. No va limitar el rendiment global ni va generar alteració de la mecànica de cursa (la cadència i longitud de passa no mostren asimetries compensatòries).
 
+## Partit de futbol el dia abans
+
+El factor probablement més rellevant. Un partit de futbol implica:
+- Exercici intermitent d'alta intensitat (esprints)
+- Contraccions excèntriques i canvis de direcció
+- Impactes i càrrega muscular atípica per a un corredor de trail
+
+Això va generar fatiga muscular residual (especialment a quàdriceps i isquiotibials) que explica la **sensació de cames pesades al sortir**. Malgrat això, la FC de sortida (119 ppm) era normal, indicant que la fatiga era muscular, no cardiovascular.
+
+La bona notícia: tot i aquesta fatiga prèvia, el cos va respondre i va permetre un final fort.
+
 ## Compex previ
 
-L'electroestimulació muscular (EMS) realitzada els dies previs pot haver generat microdanys musculars lleus. En corredors sensibles, l'ús de Compex en mode reforç/tetanització el dia abans pot produir sensació de cames pesades a la sortida.
+L'electroestimulació muscular (EMS) realitzada els dies previs pot haver generat microdanys musculars lleus. En combinació amb el partit de futbol, va contribuir a la sensació de cames pesades inicials.
+
+## Sensació de calor
+
+Coherent amb el dia i l'esforç. Tot i que el sensor del rellotge no mesura la temperatura ambient real, la percepció subjectiva de calor és consistent amb un dia assolellat de maig a l'Alt Empordà.
+
+## Cansament i rampes al final
+
+Les dades objectives ho confirmen:
+- **Longitud de passa**: cau de 124 cm (km 8) a 122 cm (km 9) → fatiga muscular
+- **FC**: puja a 182 ppm (màxim de la cursa) → esforç màxim
+- **Ritme**: es manté (4:53/km) malgrat la fatiga
+
+Estar al límit de rampes és normal en una cursa amb aquest perfil i intensitat, especialment havent fet futbol el dia abans. Les rampes solen aparèixer per:
+- Fatiga neuromuscular (contraccions repetitives)
+- Deshidratació (consistent amb la calor)
+- Desequilibri electrolític
+
+**No és un senyal de mala forma, sinó de gestió correcta arribant al límit fisiològic.**
 
 ---
 
@@ -425,20 +463,42 @@ Factors que justifiquen la puntuació:
 
 # Conclusió principal
 
-Les dades objectives indiquen que **l'estat de forma era clarament millor del que suggerien les sensacions dels dies previs** (mal de cap, poc descans i molèsties al genoll).
+Les dades objectives confirmen que **l'estat de forma era clarament millor del que suggerien les sensacions prèvies i durant la cursa**.
 
-Els factors previs no van tenir un impacte negatiu demostrable en el rendiment:
-- La congestió no va limitar la resposta cardiovascular
-- El mal de cap no va afectar la percepció d'esforç (pacing correcte)
-- El genoll no va generar alteracions mecàniques detectables
-- El descans deficient va ser compensat per la base aeròbica
+## Contrast sensacions vs dades objectives
+
+| Sensació subjectiva | Què diuen les dades |
+|---------------------|---------------------|
+| "Cames pesades al principi" | Consistent amb futbol+Compex el dia abans. Però la FC de sortida era normal (119 ppm) i la progressió de ritme va ser estable |
+| "He acabat bé" | ✅ Les dades ho confirmen: km 8 (4:36) i km 9 (4:53) són els millors ritmes |
+| "Al límit de rampes" | Coherent amb fatiga muscular al km 9 (longitud de passa 122 cm, FC 182). Normal donat el context |
+| "Molta calor" | Consistent amb el dia i la intensitat de l'esforç |
+
+## Factors previs
+
+Cap va tenir un impacte negatiu demostrable en el rendiment:
+- **Partit de futbol**: va causar fatiga muscular inicial, però no va impedir un final fort
+- **Congestió i mal de cap**: no van limitar la resposta cardiovascular
+- **Paracetamol**: sense efecte en el rendiment
+- **Descans deficient**: compensat per la base aeròbica
+- **Genoll**: no va generar alteracions mecàniques
+
+## Aprenentatges
+
+1. **Confia en les dades, no en les sensacions**: malgrat cames pesades, mal de cap, futbol previ i dormir malament, vas fer 8,5/10.
+2. **El cos aguanta més del que la ment anticipa**: la fatiga muscular inicial va desaparèixer un cop el cos va escalfar.
+3. **Millorable**: evitar futbol + Compex les 48h prèvies a una cursa per maximitzar la recuperació.
 
 El corredor mostra:
 - Bona base aeròbica
 - Bona tolerància al llindar
 - Bona resistència específica de trail curt
 - Bona capacitat de recuperació en baixades
-- Marge de millora principal en força específica de pujada i potència aeròbica
+- Capacitat de gestionar la fatiga i rendir al final
 - Maduresa tàctica notable per al nivell amateur
+- Marge de millora principal en força específica de pujada i potència aeròbica
 
-**Recomanació**: per a la propera cursa, evitar Compex les 48h prèvies i prioritzar descans actiu lleu.
+**Recomanacions per a la propera cursa**:
+- Evitar activitats d'impacte (futbol, esports amb canvis de direcció) 48-72h abans
+- Evitar Compex les 48h prèvies (o usar-lo en mode recuperació, no reforç)
+- Prioritzar descans i hidratació el dia previ
