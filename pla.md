@@ -1,7 +1,8 @@
 # 🏔️ PLA COMPLET TRAIL 9 km (+400 m)
 
-**Objectiu:** Sub 1h (target ~58:30)
+**Objectiu:** **56:00-57:00** (aspirational) / **58:30** (floor)
 **Període:** 1 juny → 9 agost (10 setmanes)
+**Basat en:** Cursa test Terres Blanques (24/05): 9.14km/+375m en **56:40** amb futbol previ, calor i genoll molest. En condicions, pots rebaixar.
 
 ---
 
@@ -14,6 +15,8 @@ Aquest pla no busca sumar km → busca **rendiment específic**:
 * ✔️ Genoll protegit (clau per rendir)
 * ✔️ Nutrició optimitzada (minuts finals)
 * ✔️ Gestió de la calor (factor crític)
+
+> **Ajustat post-cursa Terres Blanques (24/05):** La cursa test va confirmar bona base aeròbica (FC mitjana 174 ppm sense deriva), bona gestió de ritme i marge de millora en potència de pujada. FC objectiu pujat +5-10 bpm vs plan original. Objectiu rebaixat de 58:30 → 56:00-57:00.
 
 ---
 
@@ -67,35 +70,39 @@ Ordre (no dies concrets):
 * **Ritme objectiu pujada:** ~7:15–7:45 /km | FC: 163–172 bpm
 * *Intensitat alta en 2 min — treballes per sobre del llindar, com a les seccions crítiques de la cursa.*
 
-### SETMANA 5 (29 juny–5 juliol)
+### SETMANA 5 (29 juny–5 juliol) — **TEST DE CONTROL**
 
 * 10' escalfament
-* 5 x (3' pujada + baixar caminant 2')
+* **Test:** 5' pujada sostinguda RPE 8-9 (mateix lloc cada cop: busca un tram de +50-70m)
 * 10' suau
-* **Ritme objectiu pujada:** ~7:30–8:00 /km (ritme sostenible 3 min)
-* **FC referéncia:** 160–170 bpm
-* *3 minuts de pujada = longitud comparable a les seccions >10% de la cursa (100–200 m de desnivell). Primer cop que entrenes l'esforç real.*
+* **Ritme objectiu pujada:** ~7:15-7:45 /km
+* **FC referéncia:** 165-175 bpm
+* 📝 **Anota**: ritme, FC mitjana, FC màx i sensacions (RPE). Repetiràs el test a S7 per mesurar progrés.
+* *Aquest test substitueix la primera de les 5 x 3'. La idea és tenir una mètrica objectiva per saber si estàs millorant.*
 
 ### SETMANA 6 (6–12 juliol)
 
 * 10' escalfament
 * 3 x 8' ritme cursa (3' recuperació)
 * **Ritme objectiu:** 6:00-6:30 /km en terreny mixt | ~6:30-7:00 /km si és en pujada
-* **FC referéncia:** 158-168 bpm (zona llindar)
+* **FC referéncia:** **165-173 bpm** *(ajustat post-cursa: vas sostenir 170-178 ppm en pujades sense deriva)*
 
-### SETMANA 7 (13–19 juliol)
+### SETMANA 7 (13–19 juliol) — **REPETIR TEST**
 
 * 10' escalfament
-* 4 x 8' ritme cursa
+* **Test:** 5' pujada sostinguda RPE 8-9 (mateix lloc que S5) — compara ritme i FC vs S5
+* 4 x 8' ritme cursa (3' rec)
 * **Ritme objectiu:** 6:00-6:30 /km en terreny mixt
-* **FC referéncia:** 160-170 bpm
+* **FC referéncia:** **165-175 bpm**
+* 📝 Compara amb el test de S5: si el ritme ha millorat o la FC ha baixat al mateix ritme, vas bé.
 
 ### SETMANA 8 (20–26 juliol)
 
 * 10' escalfament
 * 4 x 5' ritme cursa en pujada
 * **Ritme objectiu en pujada:** 7:15-7:45 /km (no forçar el ritme pla — aquí és pujada)
-* **FC referéncia:** 163-173 bpm
+* **FC referéncia:** **168-176 bpm**
+* **🔥 Si pots, fes-la a migdia o en hora de calor** per practicar la gestió tèrmica (hidratació, ritme, sensacions)
 
 ### SETMANA 9 (27 jul–2 ago) — tapering: tornem a sèries curtes, velocitat pura
 
@@ -152,6 +159,7 @@ Ordre (no dies concrets):
 
 * 9 km / +400 m (simulació cursa)
   👉 amb gel
+  👉 **fer-la en condicions de calor** si és possible (migdia o primera hora tarda) per practicar gestió tèrmica
 
 ### SETMANA 9 (27 jul–2 ago)
 
@@ -569,10 +577,11 @@ Ordre (no dies concrets):
 
 ---
 
-# 🎯 OBJECTIU FINAL
+# 🎯 OBJECTIU FINAL (ajustat post-cursa Terres Blanques)
 
-👉 **~58:30**
-👉 Rang: 57:30 – 59:30
+👉 **56:00-57:00** (aspirational)
+👉 **58:30** (floor — garantir que surti bé)
+👉 Justificació: vas fer 56:40 en 9.14km/+375m amb futbol previ + calor. El Fau té 9km/+400m (més desnivell per km). En condicions i sense factors externs, pots apuntar més amunt.
 
 ---
 

@@ -4,7 +4,8 @@
 - Arribar amb bones sensacions a la cursa del 24/05
 - Protegir el genoll
 - Evitar fatiga residual
-- Entrar fresc al pla principal (1 juny)
+- **Setmana 3 (26/05→01/06): descans post-cursa** — sense córrer, sense impacte
+- Entrar fresc al pla principal (2 juny)
 
 ---
 
@@ -145,83 +146,57 @@ Arribar als últims 2 km amb capacitat d’apretar
 
 ---
 
-# 📅 SETMANA 3 — 26/05 → 01/06
-## Objectiu: recuperació + transició al pla principal
+# 📅 SETMANA 3 — 25/05 → 31/05
+## Objectiu: descans post-cursa + arribar fresc al pla (1 juny)
+
+> ⚠️ **Important**: La cursa va ser el 24/05 (diumenge). Aquesta setmana (dl 25 → dg 31) és **només descans actiu lleu**. Sense córrer, sense trail, sense impacte. L'objectiu és arribar fresc al pla que comença **dilluns 1 de juny**.
 
 ---
 
-## ❌ Dilluns 26
+## ❌ Dilluns 25
+Descans total + gel al genoll si hi ha molèstia
+
+---
+
+## ❌ Dimarts 26
+Descans total (o 20' caminar molt suau si et ve de gust)
+
+---
+
+## ❌ Dimecres 27
 Descans total
 
 ---
 
-## 🚶 Dimarts
-Opcional:
-- caminar
-- mobilitat
-- bici molt suau
+## 🚶 Dijous 28
+Opcional: caminar 20-30' + estiraments suaus
 
 ---
 
-## 🏃 Dimecres — rodatge recuperació
-
-### Entrenament
-- 30–40’ molt suaus
-- Terreny pla o pista fàcil
-
-### Evitar
-- Desnivell fort
-- Intensitat
+## ❌ Divendres 29
+Descans total
 
 ---
 
-## ❌ Dijous
-Descans
+## 🏋️ Dissabte 30 — activació molt lleu
 
----
-
-## 🏋️ Divendres — força lleu
-
-### Durada: 35’
+### Durada: 20-25'
+### RPE: 4 (activar, no cansar)
 
 | Exercici | Sèries × Reps |
 |---|---|
-| Goblet squat | 2×8 |
-| Step down | 2×8 |
-| Hip thrust | 2×10 |
-| Calf raises | 2×10 |
-| Core | 2 blocs |
-
-### Notes
-- RPE 5–6
-- Sense fatiga
+| Goblet squat (KB 16 kg) | 2×8 |
+| Step down excèntric (4 seg) | 2×6 cada cama |
+| Hip thrust bilateral | 2×10 |
+| Calf raise unilateral | 2×10 cada cama |
+| Planxa lateral | 2×25" cada costat |
 
 ---
 
-## 🏔️ Cap de setmana (31/05 o 01/06)
+## ❌ Diumenge 31
+Descans total
 
-### Trail molt controlat
-- 5–6 km
-- +150–200 m
-- Ritme fàcil
-
-### Objectiu
-Entrar progressivament a la Setmana 1 del pla principal
-
----
-
-# ⚠️ AJUST IMPORTANT DEL PLA PRINCIPAL
-
-## Primera setmana del pla (1–7 juny)
-👉 Fer-la al 85–90% del volum
-
-### Exemple
-- 5 intervals en lloc de 6
-- Trail més curt
-- Força sense arribar a fatiga
-
-### A partir Setmana 2
-✅ Ja normal
+> 👉 **Dilluns 1 de juny: COMENÇA EL PLA**
 
 ---
 
