@@ -29,8 +29,10 @@ Ordre (no dies concrets):
 3. 🔥 CÓRRER qualitat
 4. ❌ Descans
 5. 🏔️ Trail específic
-6. 🏋️ Força opcional
+6. 🚵 **BTT opcional** (1-1.5h, ritme suau) *o* 🏋️ Força opcional *o* ❌ Descans
 7. ❌ Descans
+
+> **BTT opcional**: cardio sense impacte, recuperació activa. Evitar single track tècnic o pujades molt fortes — l'objectiu no és fatigar-se. Pista o carretera de terra, ritme conversacional.
 
 👉 24–48h entre sessions exigents
 
