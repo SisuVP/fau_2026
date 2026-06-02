@@ -195,6 +195,32 @@ Ordre (no dies concrets):
 | **Calf raise excèntric unilateral** | 3×12 cada cama | Pujar amb 2 cames, baixar amb 1 en 4 seg. Peu a la vora d'un escaló |
 | **Planxa lateral estàtica** | 3×25 seg cada costat | Cos recte, no deixar caure el maluc |
 
+### Explicació dels exercicis de força (S1-2)
+
+**Step down excèntric (4s)**
+Dret en un esglaó de 15-20 cm. Baixes una cama a terra en 4 segons controlats. Puges amb la cama bona.
+→ Per què: excèntric de quàdriceps (vast medial). L'exercici més efectiu per la condropatia: reforça el vast medial que estabilitza la ròtula i millora la tolerància del cartílag.
+
+**Hip thrust bilateral (KB 16 kg)**
+Esquena al banc, KB als malucs. Empenys amb talons, apretes gluti al punt alt 2 seg.
+→ Per què: glutis forts = menys demanda als quàdriceps a la pujada. Menys estrès de compressió a la ròtula.
+
+**Goblet squat (KB 16 kg)**
+KB al pit, peus amples. Baixes com asseure't, genolls seguint punta dels peus.
+→ Per què: patró de squat controlat sense impacte. Rang limitat al que el genoll toleri (no cal 90°).
+
+**Single leg RDL (manc. 6-8 kg)**
+Dret sobre 1 cama (genoll lleu flexió). L'altra va enrere mentre baixes el pes, esquena recta.
+→ Per què: isquiotibials forts equilibren la força davant-darrere del genoll. Cada passa de cursa és un single leg.
+
+**Calf raise excèntric unilateral (4s)**
+En un graó, puges amb 2 cames, baixes amb 1 en 4 seg.
+→ Per què: bessons forts = millor absorció d'impacte a cada passa. Turmell fort millora tota la cinètica de la cama.
+
+**Planxa lateral estàtica — 3×25" cada costat**
+Avantbraç a terra, cos en línia recta. Aguanta sense que el maluc caigui.
+→ Per què: core lateral feble → maluc cau a cada passa (Trendelenburg) → sobrecàrrega lateral a la ròtula. Crític en trail amb desnivell.
+
 ---
 
 ## SETMANES 3–4 (15–28 juny) — Càrrega unilateral, introducció potència
@@ -287,6 +313,72 @@ Ordre (no dies concrets):
 * **Hip abduction lateral** (banda) → 3×15 cada costat
 * **Pallof press** (banda ancorada) → 3×10 cada costat — core anti-rotació, molt específic trail
 * **Mobilitat de maluc i turmell** → 5–8 min: rotacions, estirament flexors malucs, mobilitat turmell en paret
+
+---
+
+# 📖 GLOSSARI D'EXERCICIS DE FORÇA (totes les setmanes)
+
+> Descripció dels exercicis que apareixen al pla, ordenats per ordre d'aparició. Els exercicis de S1-2 ja estan explicats a la secció anterior.
+
+### Bulgarian split squat
+Peu del darrere sobre un banc. Genoll davanter no ultrapassa la punta del peu. Baixes controlat, pugues. Mancuernes a cada mà.
+→ Què treballa: quàdriceps, gluti, isquiotibials, estabilitat de maluc. És el millor exercici unilateral de cames. Exigent però segur pel genoll si no passes la punta del peu.
+
+### Hip thrust unilateral
+Assegut a terra, esquena al banc. Un peu a terra, l'altra cama estirada o a l'aire. KB al maluc. Empenys amb el taló, apretes gluti a dalt.
+→ Què treballa: gluti màxim unilateral. Corregeix desequilibris entre cama dreta i esquerra. Més exigent que el bilateral.
+
+### Pistol squat (assistit amb banda / lliure)
+Assegut en una cama, l'altra estirada endavant. Baixes controlat fins on el genoll toleri, tornes. Versió assistida: banda des de dalt o agafat a un marc.
+→ Què treballa: quàdriceps, gluti, equilibri, mobilitat de maluc i turmell. Progrés lògic després del step down. No forçar rang complet si dolor.
+
+### Sliding leg curl
+Estirat d'esquena, talons sobre tovallola en terra lliscant. Maluc a l'aire. Llisca talons cap als glutis flexionant els genolls, torna lent.
+→ Què treballa: isquiotibials en cadena tancada. Més segur per la ròtula que el curl de bíceps femoral en màquina perquè no hi ha cisallament rotulià.
+
+### Deadlift romanès unilateral (single leg RDL amb pes)
+Dret sobre 1 cama, genoll lleugerament flexionat. Baixes el pes (KB o mancuerna) cap a terra, cama lliure va enrere. Torna.
+→ Què treballa: isquiotibials, gluti, erectors, equilibri. Progressió del single leg RDL de S1-2 amb més càrrega.
+
+### Nordic curl excèntric
+Agenollat, peus ancorats (sofà, company, barra). Cau endavant molt controlat en 4-5 seg frenant amb isquiotibials. Torna empenyent amb les mans.
+→ Què treballa: isquiotibials en excèntric pur. Molt específic per baixades de trail (frenada excèntrica constant). Exigent: si no pots, fes rang reduït.
+
+### Salt unilateral davant-darrere (S5-6)
+Salta endavant amb 1 cama i torna enrere al punt de partida. Aterratge suau amb genoll flexionat.
+→ Què treballa: pliometria unilateral, absorció d'impacte, estabilitat dinàmica de genoll. Primer salt del pla — només després de 4 setmanes d'excèntric.
+
+### Dead bug
+Estirat d'esquena, braços al cel, genolls a 90°. Extens braç dret i cama esquerra lents sense que la zona lumbar es despegui del terra. Torna i alterna.
+→ Què treballa: core profund (transvers abdominal), coordinació. Manté la pelvis estable mentre les extremitats es mouen (com córrer).
+
+### Step-up explosiu
+Davant d'un graó de 20-30 cm. Puja ràpid i fort (explosiu), no excèntric lent. Baixa controlat.
+→ Què treballa: potència de quàdriceps i gluti per pujades. Simula el gest explosiu de pujar un desnivell a la cursa. Només a S7+ quan el genoll té base.
+
+### Salt unilateral lateral controlat (S7-8)
+Salta lateralment amb 1 cama, aterratge suau amb genoll flexionat. Controla l'aterratge 2 seg abans del següent salt.
+→ Què treballa: estabilitat frontal de genoll, gluti mitjà, absorció lateral. Crític per baixades en ziga-zaga o terreny irregular.
+
+### Planxa lateral dinàmica (S7-8)
+Des de posició de planxa lateral, baixa el maluc fins quasi tocar terra i puja. Controlat, sense inèrcia.
+→ Què treballa: oblics, gluti mitjà, estabilitat dinàmica de maluc. Progressió de la planxa estàtica de S1-2.
+
+### Clamshell (força opcional)
+Estirat de costat, genolls flexionats 45°. Obre el genoll superior com una cloïssa, mantenint els peus junts. Banda de resistència als genolls.
+→ Què treballa: gluti mitjà. Essencial per no deixar caure el maluc a cada passa. Molt suau pel genoll.
+
+### Monster walk (força opcional)
+Banda de resistència als turmells (o genolls). Mig squat, passes laterals amplies cap a un costat i després l'altre.
+→ Què treballa: gluti mitjà i major, abductors, control de genoll. Escalfa perfecte abans de córrer.
+
+### Hip abduction lateral (força opcional)
+Estirat de costat, cama inferior recta, superior recta. Puja la cama superior (sentit lateral) sense girar el maluc. Banda al turmell.
+→ Què treballa: gluti mitjà, tensor de la fàscia lata. Complement als clamshells amb diferent angle.
+
+### Pallof press (força opcional)
+Dret de costat a un punt d'ancoratge (banda). Agafa la banda amb les dues mans al pit. Estira els braços endavant i aguanta 2-3 seg sense que el tors giri. Torna.
+→ Què treballa: core anti-rotació. Molt específic trail: el terreny irregular vol girar-te el tors constantment.
 
 ---
 
