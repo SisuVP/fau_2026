@@ -5,7 +5,7 @@
 | Dia | Planificat | Realitat |
 |-----|-----------|----------|
 | DL 15 | Força principal 45-55' | ✅ Feta (RPE 6, adaptacions: hip thrust unilateral sense pes, single leg RDL i calf raise amb KB 16 kg) |
-| DT 16 | Descans | — |
+| DT 16 | Descans | ⚠️ Caminada ~8000 passes amb desnivell lleu i motxilla de 9 kg (no planificat) |
 | DC 17 | Qualitat lleu + cadència ~40' | — |
 | DJ 18 | Descans | — |
 | DV 19 | Activació pre-cursa ~25' | — |
