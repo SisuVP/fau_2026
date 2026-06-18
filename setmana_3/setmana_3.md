@@ -91,6 +91,44 @@
 
 ---
 
+## 🥗 Nutrició cursa
+
+### Pre-cursa
+
+| Moment | Què | Quantitat | Notes |
+|--------|-----|:---------:|-------|
+| **DS 20 — Dinar** | Arròs + pollastre o pasta + ous | Ració normal | Hidrats complexos, proteïna magra, baix en greixos |
+| **DS 20 — Sopar** | Arròs o pasta + peix blanc (lluç, rap) o pollastre | Ració normal | Evitar llegums, verdures fibroses, làctics |
+| **DG 21 — Desdejuni (3h abans)** | Torrades de pa blanc + melmelada + plàtan | 2-3 torrades + 1 plàtan | Sense mantega. Cafè si prens habitualment |
+| **DG 21 — Snack pre-cursa (30-45' abans)** | Gel de 30 g cafeïna (Crown HyperGel o equivalent) | 1 gel | Aigua a glops. Tria el gel que portaràs a cursa |
+| **Hidratació** | Aigua + 500 ml isotònic (2g sal + 30g sucre / litre) | 500-750 ml les 2h abans | Aturar 30' abans per evitar visites al bosc |
+
+`Res de nous aliments ni experiments. Tot provat abans en entrenament o en cursa.`
+
+### Intra-cursa
+
+| Moment | Què | Quantitat | Notes |
+|--------|-----|:---------:|-------|
+| **Abans de sortir** | Gel cafeïna (si no l'has pres al escalfament) | 1 gel + 2-3 glops d'aigua | Si el vas prendre al escalfament, no en prenguis un altre |
+| **Min 18-22** (mitja pujada) | Gel cafeïna + aigua | 1 gel + 3-4 glops | Enganxa al tram més dur. El gel ja porta cafeïna |
+| **Aigua restant** | Aigua natural | Glops petits cada 10-15' | No sobrehidratar. Un bidó de 500 ml és suficient |
+| **Si fa calor** | Diluir una mica de sal a l'aigua | 1 pessic al bidó | Evitar rampes si sues molt |
+
+`La cursa dura ~50-60 minuts. Amb un gel + aigua n'hi ha prou. Si tens tendència a rampes, afegeix sal a l'aigua.`
+
+### Post-cursa
+
+| Moment | Què | Quantitat | Notes |
+|--------|-----|:---------:|-------|
+| **0-15' després** | Gel/fred al genoll | 10-15' | Prioritat #1: genoll. Mentre fas el gel, comença a hidratar |
+| **15-30' després** | Aigua + plàtan o barreta | 1 plàtan + 250-500 ml aigua | Primera finestra: hidratar i reposar glucogen ràpid |
+| **30-60' després** | Batut de recuperació (llardana + cacau + llet + 1 cullerada mel) | 1 batut | Proteïna + hidrats. Alternativa: llet de xocolata |
+| **1-2 h després** | Àpat complet: arròs o pasta + pollastre/peix + verdura cuita | Ració completa | Recuperació llarga. Evita fregits i alcohol |
+
+`Importants les primeres 2 hores post-cursa per a la recuperació. És quan el cos absorbeix millor.`
+
+---
+
 ## 🗓️ DG 21 — CURSA TEST (9 km / +400 m)
 
 ### Objectiu
