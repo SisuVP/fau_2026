@@ -60,10 +60,25 @@
 |---|---|---|
 | Trot molt suau | 15' | Ritme conversacional, genoll s'escalfi |
 | **Acceleracions progressives** | 4×20" (50%→80%) | No esprintar. Sensació de "recordar com es corre ràpid" |
-| Estiraments lleus + mobilitat | 5' | Maluc, turmell, flexors |
+| **Mobilitat específica** (veure taula) | 8' | Fer després d'acceleracions, no abans |
 | Descans | Repòs actiu | Res de fatiga |
 
 > L'activació de DV és el que marca la diferència entre sortir en fred i sortir lubricat. Amb condropatia, és crític.
+
+#### Rutina de mobilitat DV (8')
+
+| Exercici | Reps / Temps | Nota clau |
+|----------|:-----------:|-----------|
+| **Círculs de maluc** (dret, peu a terra) | 10 cada sentit | Mantre el tors quiet, moure només el maluc |
+| **Leg swings frontals** (agafat a paret) | 15 cada cama | Progressiu, no forçar l'amplitud |
+| **Leg swings laterals** (agafat a paret) | 15 cada cama | Control, no inèrcia |
+| **World's greatest stretch** | 5 cada costat | Respiració profunda, aguantar 2" al final |
+| **Flexors de maluc** (genoll a terra) | 30" cada cama | Cervical neutra, glutet contret |
+| **Mobilitat de turmell** (genoll contra paret) | 10 rep cada costat | Genoll toca paret, taló a terra |
+| **Calf raise excèntric** (esglaó) | 8 lentes cada cama | Baixada controlada (3-4s), activa el tendó |
+| **Glute bridge** (activa) | 10 amb 2" d'aguant | No arquear l'esquena |
+
+`Fer en seqüència, sense descans entre exercicis. Si un exercici molesta el genoll, saltar-lo o reduir rang.`
 
 ---
 
