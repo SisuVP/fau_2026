@@ -100,21 +100,21 @@
 | **DS 20 — Dinar** | Arròs + pollastre o pasta + ous | Ració normal | Hidrats complexos, proteïna magra, baix en greixos |
 | **DS 20 — Sopar** | Arròs o pasta + peix blanc (lluç, rap) o pollastre | Ració normal | Evitar llegums, verdures fibroses, làctics |
 | **DG 21 — Desdejuni (3h abans)** | Torrades de pa blanc + melmelada + plàtan | 2-3 torrades + 1 plàtan | Sense mantega. Cafè si prens habitualment |
-| **DG 21 — Snack pre-cursa (30-45' abans)** | Gel de 30 g cafeïna (Crown HyperGel o equivalent) | 1 gel | Aigua a glops. Tria el gel que portaràs a cursa |
-| **Hidratació** | Aigua + 500 ml isotònic (2g sal + 30g sucre / litre) | 500-750 ml les 2h abans | Aturar 30' abans per evitar visites al bosc |
+| **DG 21 — Hidratació matí** | **Bidó 1** (500 ml aigua + remolatxa) | Glopejar des de l'esmorzar fins a 30' abans | Nitrats per oxigenació. Aturar 30' abans per evitar visites. |
+| **DG 21 — Snack (30-45' abans)** | Sub9 Salts (càpsula electròlits) | **1 càpsula** + 150 ml aigua | Sodi 250mg + magnesi + gingebre. Electròlits a punt. |
+| **DG 21 — Gel (15-20' abans)** | 1 gel cafeïna (Crown HyperGel 30 mg) | 1 gel + glops del **bidó 2** | Cafeïna puja a sang en ~15'. Al primer km ja tens l'efecte. |
 
-`Res de nous aliments ni experiments. Tot provat abans en entrenament o en cursa.`
+`Recupera el bidó 1 durant les 2h pre. El gel 15-20' abans fa que la cafeïna coincideixi amb sortida + pujada inicial (min 0-20).`
 
 ### Intra-cursa
 
-| Moment | Què | Quantitat | Notes |
-|--------|-----|:---------:|-------|
-| **Abans de sortir** | Gel cafeïna (si no l'has pres al escalfament) | 1 gel + 2-3 glops d'aigua | Si el vas prendre al escalfament, no en prenguis un altre |
-| **Min 18-22** (mitja pujada) | Gel cafeïna + aigua | 1 gel + 3-4 glops | Enganxa al tram més dur. El gel ja porta cafeïna |
-| **Aigua restant** | Aigua natural | Glops petits cada 10-15' | No sobrehidratar. Un bidó de 500 ml és suficient |
-| **Si fa calor** | Diluir una mica de sal a l'aigua | 1 pessic al bidó | Evitar rampes si sues molt |
+| Moment | Què | Notes |
+|--------|-----|-------|
+| **Bidó 2** (500 ml aigua + remolatxa) | Glops cada 10-15' | Nitrats + hidratació. No sobrehidratis. |
+| **Si fa calor** | Sub9 Salts (2a càpsula) | Opcional. 1 càpsula + aigua si sues molt. |
+| **Gel** | Res | Ja l'has pres 15-20' abans. No en prenguis un altre. |
 
-`La cursa dura ~50-60 minuts. Amb un gel + aigua n'hi ha prou. Si tens tendència a rampes, afegeix sal a l'aigua.`
+`Cafeïna: 1 sol gel pre. Remolatxa als 2 bidons (1 pre + 1 durant). Sub9 pre + (opcional) un altre si calor.`
 
 ### Post-cursa
 
