@@ -8,7 +8,7 @@
 | DT 16 | Descans | ⚠️ Caminada ~8000 passes amb desnivell lleu i motxilla de 9 kg (no planificat) |
 | DC 17 | Qualitat lleu + cadència ~40' | ⚠️ Feta però intensitat alta. 3×1'30" pujada a ritme 5:42-5:54/km (8-8.5% pendent, FC 175-177 → RPE 9, no 7-8). Cadència 2×1': 103-104 spm ✅ però a ritme d'esprint (3:53-4:42/km). Recuperació de la 2a cadència massa curta (1'30" insuficient). |
 | DJ 18 | Descans | — |
-| DV 19 | Activació pre-cursa ~25' | — |
+| DV 19 | Activació pre-cursa ~25' | ⚠️ Feta però 5×20" en comptes de 4×20". Trot 15' ✅, acceleracions progressives correctes (intensitat 50→80%), mobilitat 12'28" (planificat 8') — més llarga del compte però sense impacte negatiu. |
 | DS 20 | Descans total + preparació | — |
 | DG 21 | 🏁 **CURSA TEST 9 km / +400 m** | — |
 
@@ -50,3 +50,32 @@
 ### Conclusió
 
 Vas anar una mica fort per a un entrenament de taper a 4 dies de cursa. No és greu perquè el volum d'intensitat total va ser només 6'30". L'impacte principal és neural, no muscular. Amb dos dies de descans/activació lleu abans de la cursa, el cos estarà a punt DG.
+
+## Anàlisi detallada — Activació DV 19
+
+### 5×20" acceleracions progressives (50%→80%)
+
+| Sèrie | Hora inici | Vel. punta (GPX) | Ritme aprox. | Nota |
+|-------|:---------:|:---------------:|:-----------:|------|
+| 1a | 17:19:16 | 4,55 m/s (16,4 km/h) | ~3:39/km | Arrencada controlada |
+| 2a | 17:20:31 | 4,63 m/s (16,7 km/h) | ~3:35/km | Lleugera progressió |
+| 3a | 17:21:50 | 4,98 m/s (17,9 km/h) | ~3:21/km | Puntes ràpides ✅ |
+| 4a | 17:23:10 | 4,79 m/s (17,2 km/h) | ~3:28/km | Lleu baixada respecte 3a |
+| 5a | 17:24:31 | 4,96 m/s (17,9 km/h) | ~3:21/km | Recupera velocitat |
+
+- **Error principal**: vas fer 5 repeticions en lloc de 4. L'objectiu era "recordar com es corre ràpid" sense generar fatiga, i 5×20" amb recuperació de ~1' suposa un 25% més de volum del planificat.
+- **Intensitat**: correcta. Les velocitats van progressar de ~4,5 a ~5,0 m/s (3:39→3:21/km), dins del rang "50%→80%" per a tu.
+- **Mobilitat**: 12'28" en comptes de 8'. Vas fer tots els exercicis de la rutina + possiblement repeticions extra. Això no és negatiu per si sol, però suma 4'30" a la sessió.
+- **Refredament**: vas afegir 3'01" de trot final que no estava planificat. Correcte com a tancament, però la sessió total va ser ~36' vs els ~25' planificats (+44%).
+
+### Valoració global
+
+| Aspecte | Nota | Comentari |
+|---------|:----:|-----------|
+| Execució tècnica | 🟡 | Acceleracions correctes, intensitat progressiva bona |
+| Volum total | 🔴 | 5×20" + mobilitat 12' + refredament 3' → 35' en comptes de 25' |
+| Risc fatiga | 🟢 | Baix. Són 100" totals d'intensitat, repartits en 5 blocs curts amb recuperacions. Dos dies abans de cursa, no compromet. |
+| Genoll | 🟢 | Sense incidències |
+
+### Conclusió
+L'activació va ser correcta en execució però vas allargar-la un 44% respecte al pla. Per a una activació pre-cursa, l'excés de mobilitat i el refredament no són crítics — el que importa són les acceleracions i no sobrecarregar. Les 5 sèries en comptes de 4 són un error menor; l'important és que les intensitats van ser progressives i controlades. El genoll va respondre bé.

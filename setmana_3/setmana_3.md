@@ -149,7 +149,7 @@
 ### Durant cursa
 - Primer km controlat: no superar 6:30/km ni 158 bpm
 - Pujades: pas curt i freqüent (~7:30-8:00/km), caminar si >15%
-- **Min 18-22:** GEL + aigua
+- **Bidó 2:** glops cada 10-15' (aigua + remolatxa)
 - Baixada: cadència >90 spm, pas curt, cos endavant
 - Últims 2 km: si queden forces, buida
 
