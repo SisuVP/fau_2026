@@ -86,110 +86,146 @@ L'activació va ser correcta en execució però vas allargar-la un 44% respecte 
 
 ### Resum de dades
 
-| Mètrica | Valor | vs Planificat |
-|---------|:-----:|:-------------:|
-| **Distància** | **9.22 km** | — |
-| **Temps** | **60:19** | — |
-| **Ritme mig** | **6:32/km** | ✅ 6:20-6:30 (llindar) |
-| **Desnivell +** | **385 m** | ~+400 m previst |
-| **FC mitjana** | **174 bpm** | 🔴 165-173 previst |
-| **FC màxima** | **181 bpm** | — |
-| **Cadència** | **79 spm** (inici 87, final 74) | No planificat |
-| **Temps total pujada** | ~32 min | — |
+| Mètrica     |  Valor  | Comentari                        |
+| ----------- | :-----: | -------------------------------- |
+| Distància   | 9,22 km | Cursa curta i intensa            |
+| Temps       |  60:19  | —                                |
+| Ritme mig   | 6:32/km | Coherent amb el perfil           |
+| Desnivell + |  385 m  | Molt exigent per la distància    |
+| FC mitjana  | 174 bpm | Intensitat competitiva           |
+| FC màxima   | 181 bpm | Esperable en cursa curta         |
+| Cadència    |  79 spm | Descens progressiu amb la fatiga |
 
-### Perfil de la cursa
+### Perfil real de la cursa
 
-La cursa no era un pla uniforme: tenia tres trams molt diferenciats.
+La cursa es divideix en tres fases molt diferenciades:
 
-| Km | Temps | Ritme | FC | Perfil | Desnivell net |
-|:--:|:----:|:----:|:--:|:------:|:------------:|
-| 0→1 | 4:14 | 4:14/km | 173 | ⬇️ BAIXADA | -41 m |
-| 1→2 | 4:31 | 4:31/km | 177 | ⬇️ BAIXADA | -53 m |
-| 2→3 | 5:14 | 5:14/km | 176 | ➡️ ONDULAT | +6 m |
-| 3→4 | 6:41 | 6:41/km | 175 | ⬆️ PUJADA | +73 m |
-| 4→5 | 7:28 | 7:28/km | 174 | ⬆️ PUJADA | +38 m |
-| 5→6 | 8:17 | 8:17/km | 174 | ⬆️ PUJADA FORTA | +43 m |
-| 6→7 | 7:02 | 7:02/km | 175 | ⬇️ BAIXADA | -32 m |
-| 7→8 | 7:37 | 7:37/km | 173 | ⬆️ PUJADA | +50 m |
-| 8→9 | 7:59 | 7:59/km | 173 | ⬆️ PUJADA FORTA | +73 m |
-| 9→9.22 | 1:07 | 5:02/km | 167 | ⬇️ BAIXADA LLEU | -7 m |
+#### Km 0-3 — Baixada favorable
 
-### Execució vs Planificació
+* Sortida des de 584 m fins a aproximadament 490 m.
+* Uns 95 m de desnivell negatiu acumulat.
+* Ritmes molt ràpids (4:14–5:14/km) afavorits pel perfil.
 
-**Punts clau del pla i compliment:**
+La sensació de "cames buides" al principi no es reflecteix en el rendiment objectiu. Tot i sentir-te lent, anaves ràpid gràcies a la baixada.
 
-| Consigna | Pla | Realitat | Veredicte |
-|----------|:---:|:--------:|:---------:|
-| Primer km controlat 6:20-6:30 | No superar 158 bpm | **4:14/km, FC 173** | 🔴 Massa ràpid |
-| Ritme objectiu | 6:20-6:30/km | 6:32/km | ✅ Al llindar |
-| Pujades pas curt | 7:30-8:00/km | 6:41-8:17/km | 🟡 Variat |
-| FC en pujades | 165-173 bpm | 173-175 bpm | 🔴 Per sobre |
-| Baixada cadència >90 | >90 spm | 87→74 spm | 🔴 Va baixar |
+La sortida va ser més agressiva del planificat i probablement va augmentar el cost energètic inicial, però les dades no mostren un enfonsament posterior ni una deriva cardíaca significativa. Per tant, no es pot afirmar que aquí es decidís el resultat final.
 
-**Anàlisi per trams:**
+#### Km 3-6 — Primera gran pujada
 
-**Km 0-2 (Baixada, 584→490m):** Aquí vas perdre la cursa. El pla deia primer km a 6:20-6:30 i FC <158. Vas sortir a 4:14/km amb FC 173 al primer km. La baixada afavoria anar ràpid, però vas deixar-te portar. La FC va passar de 137 a 175 en 30 segons — sortida massa explosiva. Això va condicionar la resta: vas arribar a les pujades amb el cos ja en deute d'oxigen.
+* Tram principalment ascendent.
+* Ritmes entre 6:41 i 8:17/km.
+* FC molt estable (174-175 bpm).
 
-**Km 3-6 (Pujada forta, 422→495m):** Aquí vas trobar el ritme. Els parcials de 6:41 a 8:17/km estan dins del que tocava per una pujada del 8-12%. La FC estable a 174-175 bpm mostra que vas gestionar bé l'esforç un cop superat l'xoc inicial. El ritme de 8:17 al km 5 (el més lent) coincideix amb el tram més costerut.
+Aquest és probablement el tram millor gestionat de tota la cursa. Vas trobar un ritme sostenible i les dades no mostren signes de crisi cardiovascular.
 
-**Km 6-9 (Mixt, 474→589m):** Contrari al que semblava, la part final NO era baixada sinó pujada progressiva fins a 589m. El ritme de 7:02-7:59/km en aquest tram és sòlid — estaves pujant i mantenint 173-175 bpm, sense desplomar-te. L'últim km (8→9) el vas fer a 7:59 pujant +73m, i el sprint final a 5:02/km mostra que et quedava un punt de reserva.
+#### Km 6-9 — Fatiga progressiva sobre terreny exigent
+
+* Successió de pujades i trencacames.
+* Pujada final sostinguda fins als 589 m.
+* Ritmes entre 7:02 i 7:59/km.
+
+La reducció del ritme està molt condicionada pel perfil. No sembla un enfonsament fisiològic sinó la combinació de fatiga acumulada i pendent creixent.
+
+L'acceleració final indica que no hi havia un col·lapse complet, però tampoc permet concloure que quedessin reserves importants.
 
 ### Zones de freqüència cardíaca
 
-| Zona | Rang | Temps | Percentatge |
-|:----:|:----:|:-----:|:-----------:|
-| Z2 | 136-152 | ~11" | 0.3% |
-| Z3 | 153-163 | ~40" | 1.1% |
-| **Z4** | **164-175** | **~32' 42"** | **54.3%** |
-| **Z5** | **>175** | **~26' 42"** | **44.3%** |
+La dada més destacable és l'estabilitat de la FC durant tota la cursa.
 
-Has passat el **98.6% de la cursa per sobre de 164 bpm**. Això és un esforç de llindar-alt / VO₂ màx. Per una cursa test de 9 km, és acceptable (és una cursa) però per al Fau (21 km) hauries d'intentar passar més temps en Z3-Z4 (165-173) i menys en Z5.
+| Km | FC mitjana |
+| -- | ---------: |
+| 1  |        173 |
+| 2  |        177 |
+| 3  |        176 |
+| 4  |        175 |
+| 5  |        174 |
+| 6  |        174 |
+| 7  |        175 |
+| 8  |        173 |
+| 9  |        173 |
 
-### Anàlisi de sensacions (correlació dades)
+La FC es manté extraordinàriament estable durant gairebé una hora d'esforç.
 
-**"Em notava buit i lent al principi"**
-- Objectivament NO anaves lent: primer km a 14.2 km/h (4:14/km). Però la baixada dona una falsa sensació de velocitat — estaves frenant en excèntric, no impulsant. La FC va pujar de 137 a 175 bpm en 30 segons.
-- Causa: sortida massa explosiva + baixada. El "buit" és sensació de frenada excèntrica + deute d'oxigen inicial.
+Això suggereix:
 
-**"Em notava millor més endavant"**
-- A partir del km 3, en pujada, vas trobar el teu ritme. Anar més lent (6:41-8:17/km) amb FC estable va fer que et sentissis més còmode.
-- La pujada et va permetre anar a un ritme més natural per a tu (pas curt, freqüència constant, sense impactes).
+* Bona tolerància cardiovascular.
+* Bona regulació de l'esforç.
+* Absència de deriva cardíaca significativa.
+* Absència de crisi energètica clara.
 
-**"Cansat al final, tíbia esq i bessó dret carregats"**
-- Confirmat: la cadència va caure de 87 a 74 spm al final. Amb fatiga, els passos s'allarguen i l'impacte a tíbia augmenta.
-- La **tíbia esquerra** (part exterior): Síndrome d'estrès tibial medial lleu (shin splints). La baixada forta dels km 0-2 (94m de desnivell) i les pujades posteriors van acumular impacte. Amb cadència baixa al final, el cop es transmet més a la tíbia.
-- El **bessó dret** (peroneals): Sobrecàrrega per estabilització en baixada + terreny irregular. L'asimetria (dret vs esquerre) pot indicar:
-  - Desnivell del camí (laterals)
-  - Compensació per gluti mitjà dret feble
-  - Possible asimetria de cames
+### Interpretació de les sensacions
+
+#### "Em notava buit i lent al principi"
+
+Objectivament no anaves lent.
+
+La combinació de:
+
+* baixada pronunciada,
+* activació cardiovascular molt ràpida,
+* treball excèntric important,
+
+pot explicar perfectament aquesta sensació.
+
+Les dades no permeten concloure que existís un "deute d'oxigen" persistent que condicionés tota la cursa.
+
+#### "Em vaig trobar millor més endavant"
+
+Això encaixa molt bé amb les dades.
+
+Quan la cursa entra a la zona de pujada sostinguda:
+
+* la FC es regularitza,
+* desapareix l'estrès de la baixada,
+* trobes un ritme més natural.
+
+#### "Al final estava cansat i tenia la tíbia esquerra i el bessó dret carregats"
+
+Aquesta observació és coherent amb el perfil.
+
+La baixada inicial forta seguida de diverses pujades exigents genera una càrrega elevada sobre:
+
+* peroneals,
+* tibial anterior,
+* bessons.
+
+La molèstia a la part externa de la tíbia esquerra és més compatible amb una sobrecàrrega de la musculatura anterolateral de la cama (tibial anterior, extensors o peroneals) que no pas amb una síndrome d'estrès tibial medial.
+
+No hi ha prou informació per diagnosticar una lesió específica.
 
 ### Comparativa amb Terres Blanques
 
-| Mètrica | Terres Blanques | Tupí de Tapis |
-|---------|:--------------:|:-------------:|
-| Temps | 56:40 | 60:19 (+3:39) |
-| Distància | ~9 km | 9.22 km |
-| Desnivell + | ~300 m? | 385 m |
-| Ritme mig | ~6:18/km | 6:32/km |
+| Mètrica     | Terres Blanques | Tupí de Tapis |
+| ----------- | :-------------: | :-----------: |
+| Temps       |      56:40      |     60:19     |
+| Distància   |      ~9 km      |    9,22 km    |
+| Desnivell + |      ~300 m     |     385 m     |
+| Ritme mig   |     ~6:18/km    |    6:32/km    |
 
-El desnivell addicional (+85 m) explica gran part de la diferència de 3:39. En terreny comparable, el ritme seria similar. No és una pèrdua de forma — és un perfil més exigent.
+L'increment de desnivell explica gran part de la diferència de temps.
+
+No hi ha indicis de pèrdua de forma.
 
 ### Valoració global
 
-| Aspecte | Nota | Comentari |
-|---------|:----:|-----------|
-| Control sortida | 🔴 | Primer km a 4:14 en comptes de 6:20-6:30. Vas deixar-te portar per la baixada i l'emoció de cursa. |
-| Gestió pujades | 🟡 | Ritme correcte (6:41-8:17), però FC per sobre del planificat (174 vs 165-173) — conseqüència de la sortida massa ràpida. |
-| Baixada | 🟡 | Cadència >90 no assolit; va baixar de 87 a 74 al final per fatiga. |
-| Final | ✅ | Sprint a 5:02/km amb FC 167. Quedaven forces. |
-| Genoll | 🟢 | Sense incidències reportades. |
-| Tíbia/bessó | 🟡 | Sobrecàrrega post-cursa (shin splints lleu + peroneals). Cal monitoritzar. |
-| Execució nutrició | — | Sense dades de si vas seguir el pla de gels/bidons. |
+| Aspecte                      | Valoració | Comentari                                                          |
+| ---------------------------- | --------- | ------------------------------------------------------------------ |
+| Sortida                      | 🟡        | Més ràpida del previst, però sense conseqüències greus observables |
+| Gestió pujades               | 🟢        | Molt bona estabilitat de ritme i FC                                |
+| Perfil final                 | 🟢        | Correctament gestionat malgrat la fatiga                           |
+| Sistema cardiovascular       | 🟢        | No sembla el factor limitant                                       |
+| Musculatura específica trail | 🟡        | Factor limitant principal observat                                 |
+| Genoll                       | 🟢        | Sense incidències                                                  |
+| Tíbia/bessó                  | 🟡        | Sobrecàrrega muscular post-cursa compatible amb el perfil          |
 
 ### Conclusions
 
-1. **La cursa s'ha desviat del pla en la sortida**: primer km massa ràpid (4:14 vs 6:20-6:30), que va disparar la FC i va condicionar la resta. La sensació de "buit" inicial és coherent amb això.
-2. **Les pujades les vas fer bé**: ritmes i FC estables, bona gestió de l'esforç un cop superat l'xoc inicial.
-3. **El perfil real no era "pujada + baixada" sinó "baixada + pujada + pujada"**: la part final (km 7-9) era pujant fins a 589m. Això explica que anessis més lent al final — no era fatiga pura, era pendent.
-4. **La tíbia esquerra i el bessó dret carregats**: normal per una cursa de +385m amb baixada forta inicial. L'asimetria (esq vs dret) és el més rellevant de cara al Fau — cal enfortir gluti mitjà dret i treballar cadència.
-5. **Per al Fau (21 km / +800m)**: si surts a 6:30-6:40/km en comptes de 4:14/km, la FC es mantindrà a 165-170 en lloc de 175+ i gestionaràs millor els últims 10 km.
+1. La sortida va ser més agressiva del planificat, però les dades no indiquen que expliqui la major part del resultat final.
+2. La gestió de les pujades va ser bona, amb una freqüència cardíaca molt estable durant tota la cursa.
+3. El perfil real era més exigent del que suggereix el temps final, especialment per la combinació de baixades fortes i murs finals.
+4. El factor limitant principal sembla muscular i específic de trail (bessons, peroneals i tolerància a pujades després de baixades exigents), més que no pas cardiovascular.
+5. Les molèsties finals són compatibles amb sobrecàrrega muscular post-cursa i no permeten diagnosticar cap lesió específica.
+6. De cara al Fau 9 km, la dada més positiva és la capacitat de mantenir una FC molt estable durant una hora de competició sense enfonsament progressiu del rendiment.
+
+
+Per al Fau 9 km, l'objectiu no hauria de ser reduir dràsticament la FC, sinó arribar amb més resistència muscular específica per afrontar els últims murs amb menys degradació del ritme. La cursa del Tupí suggereix que el motor cardiovascular és suficientment competitiu per aquesta distància i que el principal marge de millora es troba en la força-resistència de bessons, peroneals, gluti mitjà i tolerància a baixades exigents.
