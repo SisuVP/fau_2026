@@ -69,7 +69,7 @@ Ordre (no dies concrets):
 * 10' escalfament
 * 6 x (2' pujada forta + baixar caminant)
 * 10' suau
-* **Ritme objectiu pujada:** ~7:15–7:45 /km | FC: 163–172 bpm
+* **Ritme objectiu pujada:** ~7:15–7:45 /km | FC: 168–174 bpm *(ajustat: al Tupí vas sostenir 174 de mitjana 55 minuts)*
 * *Intensitat alta en 2 min — treballes per sobre del llindar, com a les seccions crítiques de la cursa.*
 
 ### SETMANA 5 (29 juny–5 juliol) — **TEST DE CONTROL**
@@ -236,6 +236,7 @@ Avantbraç a terra, cos en línia recta. Aguanta sense que el maluc caigui.
 | **Single leg RDL** (mancuerna 10–12 kg) | 3×10 cada cama | Augmenta pes respecte S1–2 |
 | **Sliding leg curl** | 3×10 | Estirat d'esquena, talons sobre tovallola en terra llis. Maluc a l'aire, llisca talons cap als glutis i torna. Isquiotibials cadena tancada |
 | **Calf raise excèntric unilateral** | 3×15 cada cama | Mateix patró, augmenta reps |
+| **Tibial anterior dorsiflexió (banda)** | 2×15 cada cama | Dorsiflexió controlada contra banda. Prevé sobrecàrrega tibial anterior |
 | **Planxa lateral estàtica** | 3×30 seg cada costat | Progressió de S1–2 |
 
 ---
