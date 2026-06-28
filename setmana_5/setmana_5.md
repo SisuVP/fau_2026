@@ -1,0 +1,132 @@
+# SETMANA 5 (29 juny–5 juliol) — RE-ENTRY POST-MALALTIA
+
+> Setmana de reinserció després de la febre de 39,1°C (DC 24). La setmana 4 va quedar interrompuda: força perduda, qualitat perduda, trail substituït per 1h suau DG 28.
+>
+> **L'objectiu no és progressar — és tornar a córrer sense recaiguda.** El cos ha estat en mode combat amb la febre alta i el sistema cardiovascular necessita 7-10 dies per recuperar-se del tot.
+>
+> 🔑 **Canvis respecte al pla original (S5):**
+> * Test de control (5' pujada) endarrerit a S6 — fer-lo ara amb el cos encara en recuperació donaria dades esbiaixades
+> * Trail específic 10 km / +400 m cancel·lat — massa exigent
+> * Força S5-6 pic de volum substituïda per S3-4 80% (mateixa que S4)
+> * S'afegeix la cursa grupal del DT 30 com a estímul social de baix impacte
+
+---
+
+## 🗓️ DL 29 — Descans
+
+Caminar si ve de gust, sense cap obligació.
+
+---
+
+## 🗓️ DT 30 — Cursa grupal (c. 1h 30')
+
+> Al calendari Coros: Running
+
+`RPE 4-5. Ritme conversacional ~11-12 min/km.`
+
+| Fase | Durada | Notes |
+|------|--------|-------|
+| Cursa grupal | 7-8 km | Anar al ritme del grup, sense mirar rellotge |
+| **Objectiu:** social, no entrenament. Si el grup accelera, tu mantens el teu ritme còmode |
+
+**Atenció:** si notes fatiga anormal, opressió o mareig, pares i camines. Millor fer 5 km que recaure.
+
+### Clau post-grup
+- Hidratació extra vespre
+- Si genoll molest: gel 10-15'
+- Sopar lleuger
+
+---
+
+## 🗓️ DC 1 — Força principal S3-4 (80% volum)
+
+> Al calendari Coros: Strength
+
+`RPE 6-7. Excèntric controlat. Descansos 90" entre sèries.`
+`80% del volum: 2 sèries als exercicis marcats amb *`
+
+| Exercici | Sèries × Reps | Notes |
+|---|---|---|
+| **Bulgarian split squat** (manc. 8-10 kg cada mà) | * **2×8** cada cama | 80% |
+| **Step down excèntric** (4s, escaló 25 cm si no dolor) | 3×10 cada cama | Volum complet |
+| **Hip thrust unilateral** (KB 16 kg) | * **2×10** cada cama | 80% |
+| **Pistol squat assistit** (banda) | * **2×6** cada cama | 80% — controla baixada 3s |
+| **Single leg RDL** (manc. 10-12 kg) | 3×10 cada cama | Volum complet |
+| **Calf raise excèntric unilateral** (4s) | 3×15 cada cama | Volum complet |
+| **Tibial anterior dorsiflexió (banda)** | 2×15 cada cama | Dorsiflexió controlada |
+| **Planxa lateral estàtica** | 3×30" cada costat | Volum complet |
+
+### Microdosi (5 min al final)
+
+* Calf raise unilateral 2×20
+* Caminar de puntetes 2×20 m
+* Caminar de talons 2×20 m
+* Tibial anterior dorsiflexió (banda) 2×15 cada cama
+
+> **Per què 80%:** el cos encara no ha completat la recuperació post-viral muscular. Millor fer menys i sortir amb ganes de més que sobrecarregar.
+
+---
+
+## 🗓️ DJ 2 — Trot suau de test (c. 30 min)
+
+> Al calendari Coros: Running
+
+`RPE 5-6. Ritme fàcil, sense mirar ritme. Objectiu: test de sensacions.`
+
+| Fase | Durada | Notes |
+|------|--------|-------|
+| Trot suau | 25-30' | Terreny pla o poc desnivell. Conversacional |
+| Refredament | 5' caminant | |
+
+**📝 Anota:** sensacions generals (0-10), FC mitjana si pots, dolor genoll (semàfor verd/groc/vermell).
+
+Aquest trot et dirà si pots progressar a DS o si cal un dia més de descans.
+
+---
+
+## 🗓️ DV 3 — Descans
+
+---
+
+## 🗓️ DS 4 — Trot 30-35' + acceleracions
+
+> Al calendari Coros: Running
+
+`Només si DJ 2 va anar bé. Si DJ va ser dur, repeteix 25-30' suau sense acceleracions.`
+
+| Fase | Durada | Notes |
+|------|--------|-------|
+| Trot suau | 25' | Escalfament progressiu |
+| **Acceleracions progressives** | 4×20" (50%→80%) | No esprintar. Recordar sensació de ritme |
+| Refredament | 5-10' suau | |
+
+---
+
+## 🗓️ DG 5 — Descans
+
+---
+
+## 📊 DIFERÈNCIES RESPECTE AL PLA ORIGINAL (S5)
+
+| Aspecte | Pla original S5 | Setmana 5 adaptada |
+|---|---|---|
+| Qualitat | Test 5' pujada RPE 8-9 | **Grup DT + acceleracions DS** |
+| Trail específic | 10 km / +400 m + 15' ritme cursa | **Cancel·lat** |
+| Força | S5-6 pic volum (Bulgarian 4×8, Nordic curl, salts) | **S3-4 80% volum** (re-entrada) |
+| Volum setmanal córrer | ~15 km + qualitat | **~10 km + grup** |
+
+## 🔄 PROPERA SETMANA (S6, 6-12 juliol)
+
+Si tot va bé aquesta setmana (cap fatiga estranya, genoll verd, FC normal), S6 serà:
+
+| Dia | Què fer |
+|-----|---------|
+| DL 6 | Descans |
+| DT 7 | Trot 5 km suau (test fiabilitat) |
+| DC 8 | Força S3-4 (progressar a 3 sèries) |
+| DJ 9 | Qualitat: 5×2' pujada RPE 7-8 (recuperar S4) |
+| DV 10 | Descans |
+| DS 11 | Trot 30-35' + 4×20" accel. |
+| DG 12 | Descans |
+
+El test de control (5' pujada) passa a la setmana del 13 de juliol.
